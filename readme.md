@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ORM](#orm)
 - [REST](#rest)
 - [Testing](#testing)
+- [Tracking](#tracking)
 - [Utility](#utility)
 - [Wireless](#wireless)
 - [Other](#other)
@@ -65,6 +66,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator. 
 
+### Tracking
+
+- [MobileAppTracking](http://mobileapptracking.com/) - Tracking your marketing campaigns across multiple ad networks.
+- [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
+
 ### Utility
 
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
@@ -80,7 +86,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Android Annotation framework](https://github.com/excilys/androidannotations) - Using Java annotations, developers can show their intent and let AndroidAnnotations generate the plumbing code at compile time.
 - [Google Core Libraries](https://code.google.com/p/guava-libraries/) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 - [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android.
-
+- [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
+- [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 
 ## Resources
 
