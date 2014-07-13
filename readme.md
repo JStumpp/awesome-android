@@ -8,7 +8,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Dependency Injection](#dependency-injection)
     - [Game Development](#game-development)
     - [GUI](#gui)
-    - [Images](#images)
+        - [Animations](#animations)
+        - [Images](#images)
+        - [Loading images](#loading-images)
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
@@ -54,8 +56,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 
-### Images
+#### Images
 
 - [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
