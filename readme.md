@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android.
 - [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
 - [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
+- [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent
 
 ## Resources
 
