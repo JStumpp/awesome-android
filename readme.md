@@ -6,9 +6,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Libraries
 
+- [Charts](#charts)
 - [Dependency Injection](#dependency-injection)
 - [Game Development](#game-development)
 - [GUI](#gui)
+- [Images](#images)
 - [JSON](#json)
 - [Crash monitoring](#crash-monitoring)
 - [Networking](#networking)
@@ -19,6 +21,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Utility](#utility)
 - [Wireless](#wireless)
 - [Other](#other)
+
+### Charts
+
+- [AChartEngine](http://code.google.com/p/achartengine/) - Charting Engine.
+- [EazeGraph](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
 
 ### Dependency Injection
 
@@ -33,14 +40,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### GUI
 
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
-- [Pull to refresh library](https://github.com/chrisbanes/Android-PullToRefresh)
-- [AChartEngine](http://code.google.com/p/achartengine/) – Charting Engine.
-- [Animation framework](https://github.com/JakeWharton/NineOldAndroids) -For Android versions as of 1.6.
-- [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
-- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) Support for horizontally scrolling ViewPager.
-- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+- [Pull to refresh library](https://github.com/chrisbanes/Android-PullToRefresh)
+- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
+- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
+- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card
+
+#### Animations
+- [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
+- [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
+
+### Images
+
+- [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
+- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
+
+#### Loading Images
+
+- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
+- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
 
 ### JSON
 
@@ -53,9 +72,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Networking
 
-- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
-- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
-- [OkHttp](https://github.com/square/okhttp) An HTTP+SPDY client for Android and Java applications.
+- [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
+- [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
+- [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 
 ### ORM
 
@@ -69,6 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Testing
 
+- [Robotium](https://code.google.com/p/robotium/) - Test automation framework for black-box UI tests.
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator. 
 
 ### Tracking
@@ -96,8 +116,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-- [](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
-- [Android Weekly](http://androidweekly.net/) - Newsletter with weekly information about android.
+- [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [Android Weekly](http://androidweekly.net) - Newsletter with weekly information about android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
