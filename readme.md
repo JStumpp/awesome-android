@@ -1,26 +1,29 @@
 # Awesome Android
 
-> A curated list of delightful Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
+A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+- [Libraries](#libraries)
+    - [Charts](#charts)
+    - [Dependency Injection](#dependency-injection)
+    - [Game Development](#game-development)
+    - [GUI](#gui)
+    - [Images](#images)
+    - [JSON](#json)
+    - [Crash monitoring](#crash-monitoring)
+    - [Networking](#networking)
+    - [ORM](#orm)
+    - [REST](#rest)
+    - [Testing](#testing)
+    - [Tracking](#tracking)
+    - [Utility](#utility)
+    - [Wireless](#wireless)
+    - [Other](#other)
+- [Resources](#resources)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 ## Libraries
-
-- [Charts](#charts)
-- [Dependency Injection](#dependency-injection)
-- [Game Development](#game-development)
-- [GUI](#gui)
-- [Images](#images)
-- [JSON](#json)
-- [Crash monitoring](#crash-monitoring)
-- [Networking](#networking)
-- [ORM](#orm)
-- [REST](#rest)
-- [Testing](#testing)
-- [Tracking](#tracking)
-- [Utility](#utility)
-- [Wireless](#wireless)
-- [Other](#other)
 
 ### Charts
 
@@ -127,10 +130,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 
-## Contribute
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-Contributions welcome (and required ;-)! Read the [contribution guidelines](contributing.md) first.
+## Contributing
 
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
