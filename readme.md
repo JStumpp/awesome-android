@@ -21,17 +21,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Dependency Injection
 
-- [RoboGuice](https://github.com/robolectric/robolectric) - Dependency injection framework for Android
-- [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android
+- [RoboGuice](https://github.com/robolectric/robolectric) - Dependency injection framework for Android.
+- [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
 
 ### GUI
 
-- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions
+- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
 - [Pull to refresh library](https://github.com/chrisbanes/Android-PullToRefresh)
-- [AChartEngine](http://code.google.com/p/achartengine/) – Charting Engine
-- [Animation framework](https://github.com/JakeWharton/NineOldAndroids) -For Android versions as of 1.6
+- [AChartEngine](http://code.google.com/p/achartengine/) – Charting Engine.
+- [Animation framework](https://github.com/JakeWharton/NineOldAndroids) -For Android versions as of 1.6.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
-- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) Support for horizontally scrolling ViewPager
+- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) Support for horizontally scrolling ViewPager.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
@@ -68,25 +68,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Utility
 
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
-- [Otto](https://github.com/square/otto) - Event Bus for Android
+- [Otto](https://github.com/square/otto) - Event Bus for Android.
 
 ### Wireless
 
-- [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a Bluetooth Low Energy in Bluetooth 4.0).
+- [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
 
 ### Other 
 
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Android Annotation framework](https://github.com/excilys/androidannotations) - Using Java annotations, developers can show their intent and let AndroidAnnotations generate the plumbing code at compile time.
 - [Google Core Libraries](https://code.google.com/p/guava-libraries/) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
-- [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android
+- [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android.
 
 
 ## Resources
 
 - [Android Weekly](http://androidweekly.net/) - Newsletter with weekly information about android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
-- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/)
+- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 
 ## Contribute
