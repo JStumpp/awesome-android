@@ -25,6 +25,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RoboGuice](https://github.com/robolectric/robolectric) - Dependency injection framework for Android.
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
 
+### Game Development
+
+- [Vuforia](https://www.vuforia.com) - Augmated Reality libary.
+- [Unity](http://unity3d.com/unity/multiplatform/mobile) - Cross-platform game creation system.
+
 ### GUI
 
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -91,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
+- [](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android Weekly](http://androidweekly.net/) - Newsletter with weekly information about android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
