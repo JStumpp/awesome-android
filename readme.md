@@ -46,6 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card
+- [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
