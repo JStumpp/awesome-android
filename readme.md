@@ -23,7 +23,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Other](#other)
 - [Resources](#resources)
 - [Development Alternatives](#development-alternatives)
-    - [C#](#C)
+    - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
     - [Lua](#Lua)
     - [Scala](#scala)
