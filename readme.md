@@ -22,7 +22,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Wireless](#wireless)
     - [Other](#other)
 - [Resources](#resources)
-- [Java Alternatives](#java-alternatives)
+- [Development Alternatives](#development-alternatives)
+    - [C#](#C)
+    - [HTML, CSS and Javascript](#html-css-and-javascript)
+    - [Lua](#Lua)
     - [Scala](#scala)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -135,19 +138,26 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 
-## Java Alternatives
+## Development Alternatives
+
+My personal recommendation is to use the standard android java api to build a good app, but there are use cases where alternatives like cross-platform development can be useful, so here is a list of alternatives for java.
+
+### C&#35;
+
+- [Xamarin](http://xamarin.com) - Framework to create native iOS, Android, Mac and Windows apps in C#.
+
+### HTML, CSS and Javascript
+
+- [PhoneGap](http://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
+- [Titanium](http://www.appcelerator.com/titanium/) - Open-source framework to create 'native' cross platform apps using JavaScript.
+
+### Lua
+- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - -Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
 
-#### Libraries
-
 - [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
 - [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
-
-#### Resources
-
-- [Mailing List](https://groups.google.com/forum/#!forum/scala-on-android) - The mailing list for everything related to using Scala on Android.
-- [Macroid’s Scala-on-Android guide](http://macroid.github.io/ScalaOnAndroid.html) - A growing collection of resources to get started with Scala on Android.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
