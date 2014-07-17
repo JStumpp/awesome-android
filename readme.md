@@ -140,7 +140,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ## Development Alternatives
 
-My personal recommendation is to use the standard android java api to build a good app, but there are use cases where alternatives like cross-platform development can be useful, so here is a list of alternatives for java.
+My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code. But there are also use cases where alternatives like cross-platform development can be useful.
 
 ### C&#35;
 
@@ -155,8 +155,8 @@ My personal recommendation is to use the standard android java api to build a go
 - [Corona SDK](http://coronalabs.com/products/corona-sdk/) - -Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
-
-- [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
+- [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
+- [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
 - [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
 
 # Other Awesome Lists
