@@ -22,6 +22,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Wireless](#wireless)
     - [Other](#other)
 - [Resources](#resources)
+- [Java Alternatives](#java-alternatives)
+    - [Scala](#scala)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -132,6 +134,20 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
+
+## Java Alternatives
+
+### Scala
+
+#### Libraries
+
+- [Scaloid](https://github.com/pocorall/scaloid) - Less painful Android development with Scala.
+- [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
+
+#### Resources
+
+- [Mailing List](https://groups.google.com/forum/#!forum/scala-on-android) - The mailing list for everything related to using Scala on Android.
+- [Macroid’s Scala-on-Android guide](http://macroid.github.io/ScalaOnAndroid.html) - A growing collection of resources to get started with Scala on Android.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
