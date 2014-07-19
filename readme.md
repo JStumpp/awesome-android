@@ -53,9 +53,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
 - [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
-- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
+- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
+- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
-- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 
 #### Animations
