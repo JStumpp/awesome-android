@@ -50,8 +50,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### GUI
 
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
-- [Pull to refresh library](https://github.com/chrisbanes/Android-PullToRefresh)
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
+- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
 - [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
@@ -76,7 +76,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### JSON
 
 - [Gson](https://code.google.com/p/google-gson/) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-- [Jackson JSON Processor](http://jackson.codehaus.org)
+- [Jackson JSON Processor](http://jackson.codehaus.org) - High-performance JSON processor.
 
 ### Crash monitoring
 
@@ -91,9 +91,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### ORM
 
-- [GreeDAO](http://greendao-orm.com/)
-- [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml)
-- [ActiveAndroid](http://www.activeandroid.com/)
+- [GreeDAO](http://greendao-orm.com) - Light & fast ORM solution.
+- [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
+- [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
 
 ### REST
 
@@ -128,7 +128,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android.
 - [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
 - [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
-- [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent
+- [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 
 ## Resources
 
@@ -152,7 +152,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Titanium](http://www.appcelerator.com/titanium/) - Open-source framework to create 'native' cross platform apps using JavaScript.
 
 ### Lua
-- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - -Framework to create native iOS and Android Apps (especially Games).
+- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
 - [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
