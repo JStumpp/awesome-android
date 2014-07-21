@@ -57,6 +57,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
+- [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
