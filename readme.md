@@ -15,6 +15,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
     - [ORM](#orm)
+    - [Database](#database)
     - [REST](#rest)
     - [Testing](#testing)
     - [Tracking](#tracking)
@@ -95,6 +96,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [GreeDAO](http://greendao-orm.com) - Light & fast ORM solution.
 - [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
+
+### Database
+- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Acces the sqlite easily via direct database acces or through the ContentProvider framework.
 
 ### REST
 
