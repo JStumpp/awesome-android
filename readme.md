@@ -15,6 +15,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
     - [ORM](#orm)
+    - [Database](#database)
     - [REST](#rest)
     - [Testing](#testing)
     - [Tracking](#tracking)
