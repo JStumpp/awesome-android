@@ -14,8 +14,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
-    - [ORM](#orm)
     - [Database](#database)
+        - [ORM](#orm)
     - [REST](#rest)
     - [Testing](#testing)
     - [Tracking](#tracking)
@@ -91,14 +91,14 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 
-### ORM
+### Database
+- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Acces the sqlite easily via direct database acces or through the ContentProvider framework.
+
+#### ORM
 
 - [GreeDAO](http://greendao-orm.com) - Light & fast ORM solution.
 - [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
-
-### Database
-- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Acces the sqlite easily via direct database acces or through the ContentProvider framework.
 
 ### REST
 
