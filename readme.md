@@ -96,6 +96,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
 
+### Database
+- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Acces the sqlite easily via direct database acces or through the ContentProvider framework.
+
 ### REST
 
 - [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface.
