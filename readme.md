@@ -8,6 +8,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Dependency Injection](#dependency-injection)
     - [Game Development](#game-development)
     - [GUI](#gui)
+        - [ActionBar](#actionbar)
+        - [Navigation](#navigation)
         - [Animations](#animations)
         - [Images](#images)
         - [Loading images](#loading-images)
@@ -23,6 +25,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Wireless](#wireless)
     - [Other](#other)
 - [Resources](#resources)
+    - [More lists of libraries](#more-lists-of-libraries)
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
@@ -50,15 +53,22 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### GUI
 
-- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
-- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 - [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
+- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
+
+#### ActionBar
+- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
+- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
+
+#### Navigation
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
+- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
+- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
 
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
@@ -148,6 +158,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 - [Android UI design resources] (http://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project] (http://pencil.evolus.vn/) - An open source prototyping software.
+
+### More lists of libraries
+- [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
+- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
+- [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 
 ## Development Alternatives
 
