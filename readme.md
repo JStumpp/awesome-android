@@ -45,6 +45,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
+- [Butter Knife](http://jakewharton.github.io/butterknife) - View "injection" library for Android.
 
 ### Game Development
 
