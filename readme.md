@@ -49,7 +49,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Game Development
 
-- [Vuforia](https://www.vuforia.com) - Augmated Reality libary.
+- [Vuforia](https://www.vuforia.com) - Augmented Reality library.
 - [Unity](http://unity3d.com/unity/multiplatform/mobile) - Cross-platform game creation system.
 
 ### GUI
@@ -103,7 +103,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 
 ### Database
-- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Acces the sqlite easily via direct database acces or through the ContentProvider framework.
+- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
 
 #### ORM
 
