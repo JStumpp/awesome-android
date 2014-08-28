@@ -31,6 +31,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [HTML, CSS and Javascript](#html-css-and-javascript)
     - [Lua](#Lua)
     - [Scala](#scala)
+    - [Groovy](#Groovy)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -118,7 +119,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Testing
 
 - [Robotium](https://code.google.com/p/robotium/) - Test automation framework for black-box UI tests.
-- [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator. 
+- [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 
 ### Tracking
 
@@ -134,7 +135,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
 
-### Other 
+### Other
 
 - [Android Support library](http://developer.android.com/tools/support-library/index.html) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](http://developer.android.com/google/play-services/index.html) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
@@ -185,6 +186,10 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
 - [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
 - [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
+
+### Groovy
+- [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
+- [Groovy Language Support for Android](https://github.com/melix/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
