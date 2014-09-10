@@ -105,6 +105,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Database
 - [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
+- [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
 
 #### ORM
 
