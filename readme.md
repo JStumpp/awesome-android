@@ -1,6 +1,6 @@
 # Awesome Android
 
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
+A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java). This awesome collection is also available on [Android-Libraries.ZEEF.com](https://android-libraries.zeef.com/jurgen.stumpp).
 
 
 - [Libraries](#libraries)
