@@ -99,6 +99,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Networking
 
+- [Ion](https://github.com/koush/ion) - Good networking library for android.
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
