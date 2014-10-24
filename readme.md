@@ -103,6 +103,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
+- [IceNet](https://github.com/anton19/IceNet) - Fast, Simple and Easy Networking for Android
 
 ### Database
 - [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
