@@ -117,6 +117,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [GreeDAO](http://greendao-orm.com) - Light & fast ORM solution.
 - [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
+- [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
 
 ### REST
 
