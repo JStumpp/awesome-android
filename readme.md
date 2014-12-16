@@ -12,6 +12,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
         - [Navigation](#navigation)
         - [Animations](#animations)
         - [Images](#images)
+        - [Inputs](#inputs)
         - [Loading images](#loading-images)
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
@@ -82,6 +83,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
+
+#### Inputs
+
+- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText.
 
 #### Loading Images
 
