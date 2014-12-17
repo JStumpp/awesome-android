@@ -32,6 +32,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Lua](#Lua)
     - [Scala](#scala)
     - [Groovy](#Groovy)
+    - [Kotlin](#Kotlin)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -200,6 +201,9 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
 - [Groovy Language Support for Android](https://github.com/melix/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
+
+### Kotlin
+- [Koan](https://github.com/yanex/koan) - Pleasant Android application development
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
