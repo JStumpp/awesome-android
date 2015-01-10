@@ -43,6 +43,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [AChartEngine](http://code.google.com/p/achartengine/) - Charting Engine.
 - [EazeGraph](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
 
 ### Dependency Injection
 
