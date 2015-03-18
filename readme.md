@@ -178,6 +178,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 - [Android UI design resources] (http://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project] (http://pencil.evolus.vn/) - An open source prototyping software.
+- [Google Wear App](https://github.com/mbcrump/FirstGoogleWearableApp) - This is an open source Google Wear App that uses speech recognition to calculate a tip. 
 
 ### More lists of libraries
 - [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
@@ -197,6 +198,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 - [PhoneGap](http://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 - [Titanium](http://www.appcelerator.com/titanium/) - Open-source framework to create 'native' cross platform apps using JavaScript.
+- [NativeScript](http://www.nativescript.org) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
 
 ### Lua
 - [Corona SDK](http://coronalabs.com/products/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
