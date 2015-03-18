@@ -114,6 +114,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 - [IceNet](https://github.com/anton19/IceNet) - Fast, Simple and Easy Networking for Android
 - [Android Volley](http://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
+- [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 
 ### Database
 - [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
