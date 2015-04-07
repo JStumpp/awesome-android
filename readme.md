@@ -188,6 +188,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Android.hew.io](http://android.hew.io) - Yet another list of android libraries.
+- [Mobile Awesome summary](https://github.com/danielgomezrico/Awesome-Mobile-Android-iOS-more-): sumary of mobile creative develpoment awesome things.
 
 ## Development Alternatives
 
