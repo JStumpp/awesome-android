@@ -28,6 +28,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
     - [Pre Lollipop compat](http://arjunu.com/2015/02/materializing-your-apps-for-pre-lollipop/)
+    - [Fast Gradle Build](http://stackoverflow.com/a/23648341/273119)
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
