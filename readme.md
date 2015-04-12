@@ -30,6 +30,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Pre Lollipop compat](http://arjunu.com/2015/02/materializing-your-apps-for-pre-lollipop/)
     - [Fast Gradle Build](http://stackoverflow.com/a/23648341/273119)
     - [Android Videos - Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh)
+    - [Caster.io](https://caster.io/android/episode-3-android-studio-productivity-custom-shortcuts/): Semanal Videos 
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
