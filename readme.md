@@ -59,7 +59,6 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Unity](http://unity3d.com/unity/multiplatform/mobile) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 
-
 ### GUI
 
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
