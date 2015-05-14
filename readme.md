@@ -27,6 +27,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
+    - [Pre Lollipop compat](http://arjunu.com/2015/02/materializing-your-apps-for-pre-lollipop/)
+    - [Fast Gradle Build](http://stackoverflow.com/a/23648341/273119)
+    - [Android Videos - Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh)
+    - [Caster.io](https://caster.io/android/episode-3-android-studio-productivity-custom-shortcuts/): Semanal Videos 
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
@@ -150,6 +154,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
+- [Weak handler](https://github.com/badoo/android-weak-handler): helps to have a clean handler without memmory issues.
 
 ### Wireless
 
@@ -189,6 +194,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Android.hew.io](http://android.hew.io) - Yet another list of android libraries.
+- [Mobile Awesome summary](https://github.com/danielgomezrico/Awesome-Mobile-Android-iOS-more-): sumary of mobile creative develpoment awesome things.
 
 ## Development Alternatives
 
