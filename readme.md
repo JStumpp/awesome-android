@@ -97,7 +97,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Loading Images
 
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
-- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
+- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images. 
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling,Recommended by google.    
+- [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 
 ### JSON
 
