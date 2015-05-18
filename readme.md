@@ -30,10 +30,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
-    - [Lua](#Lua)
+    - [Lua](#lua)
     - [Scala](#scala)
-    - [Groovy](#Groovy)
-    - [Kotlin](#Kotlin)
+    - [Groovy](#groovy)
+    - [Kotlin](#kotlin)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
