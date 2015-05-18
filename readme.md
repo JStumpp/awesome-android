@@ -30,10 +30,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
-    - [Lua](#Lua)
+    - [Lua](#lua)
     - [Scala](#scala)
-    - [Groovy](#Groovy)
-    - [Kotlin](#Kotlin)
+    - [Groovy](#groovy)
+    - [Kotlin](#kotlin)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -223,7 +223,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
-- [Koan](https://github.com/yanex/koan) - DSL for Android written in Kotlin.
+- [Anko](https://github.com/JetBrains/anko) - DSL for Android written in Kotlin by JetBrains.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
