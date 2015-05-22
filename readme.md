@@ -78,6 +78,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
 - [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
 - [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
@@ -110,6 +111,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Crashlytics](https://crashlytics.com) - Easy crash reporting solution.
 - [HockeyApp](http://hockeyapp.net) - Distribution, Crash Reports, Feedback and Analytics
+- [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
+- [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
 
 ### Networking
 
