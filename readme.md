@@ -212,6 +212,8 @@ My personal recommendation is (for now) to use the android api to build a native
 - [PhoneGap](http://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 - [Titanium](http://www.appcelerator.com/titanium/) - Open-source framework to create 'native' cross platform apps using JavaScript.
 - [NativeScript](http://www.nativescript.org) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
+- [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
+- [Ionic Framework](http://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
 
 ### Lua
 - [Corona SDK](http://coronalabs.com/products/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
