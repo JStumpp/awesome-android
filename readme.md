@@ -183,6 +183,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
 - [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- The application that gives you access to the slides of the video series.
 - [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - It is the technical counterpart of Android Design in Action series.
+- [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler [Chet Hasae](https://plus.google.com/+ChetHaase/posts/5grfChTEvQ9) and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
 - [Android Hive Tutorials](http://www.androidhive.info) - Very good tutorials for beginners.
 - [Android Weekly](http://androidweekly.net) - Newsletter with weekly information about android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
