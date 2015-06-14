@@ -68,6 +68,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 - [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [DragSortListView](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
+- [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
