@@ -161,6 +161,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
+- [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 
 ### Wireless
 
