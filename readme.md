@@ -85,6 +85,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
+- [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
 
 #### Images
 
