@@ -86,6 +86,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
+- [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
 
 #### Images
 
