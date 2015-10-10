@@ -16,6 +16,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
+    - [Notifications](#notifications)
     - [Database](#database)
         - [ORM](#orm)
     - [REST](#rest)
@@ -129,6 +130,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Volley](http://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
+
+### Notifications
+- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
 
 ### Database
 - [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
