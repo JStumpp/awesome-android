@@ -34,6 +34,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Scala](#scala)
     - [Groovy](#groovy)
     - [Kotlin](#kotlin)
+- [Performance](#performance)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -248,6 +249,9 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection writen in Kotlin based on ButterKnife
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples writen in Kotlin.
 - [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
+
+# Performance
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - awesome list of android performance
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
