@@ -188,6 +188,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 - [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
+- [Caffeine](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
 
 ## Resources
 
