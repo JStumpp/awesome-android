@@ -97,6 +97,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
+- [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 
 #### Inputs
 
