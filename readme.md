@@ -42,7 +42,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Charts
 
-- [AChartEngine](http://code.google.com/p/achartengine/) - Charting Engine.
+- [AChartEngine](https://github.com/ddanny/achartengine) - Charting Engine.
 - [EazeGraph](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
@@ -52,15 +52,15 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
-- [Butter Knife](http://jakewharton.github.io/butterknife) - View "injection" library for Android.
+- [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
 
 ### Game Development
 
 - [AndEngine](http://www.andengine.org/) - Free, Fun and Fast Android 2D OpenGL Game Engine.
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
-- [Vuforia](https://www.vuforia.com) - Augmented Reality library.
-- [Unity](http://unity3d.com/unity/multiplatform/mobile) - Cross-platform game creation system.
+- [Vuforia](https://www.qualcomm.com/products/vuforia) - Augmented Reality library.
+- [Unity](http://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 
 ### GUI
@@ -83,7 +83,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
 - [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - Simple library that helps to create awesome sliding android app tutorials.
 - [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
-- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
+- [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 
 #### Animations
@@ -114,8 +114,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### JSON
 
-- [Gson](https://code.google.com/p/google-gson/) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-- [Jackson JSON Processor](http://jackson.codehaus.org) - High-performance JSON processor.
+- [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
+- [Jackson JSON Processor](http://www.codehaus.org/) - High-performance JSON processor.
 
 ### Crash monitoring
 
@@ -130,7 +130,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
-- [IceNet](https://github.com/anton19/IceNet) - Fast, Simple and Easy Networking for Android
+- [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
 - [Android Volley](http://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
@@ -158,13 +158,13 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Testing
 
-- [Robotium](https://code.google.com/p/robotium/) - Test automation framework for black-box UI tests.
+- [Robotium](https://github.com/robotiumtech/robotium) - Test automation framework for black-box UI tests.
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
 
 ### Tracking
 
-- [MobileAppTracking](http://mobileapptracking.com/) - Tracking your marketing campaigns across multiple ad networks.
+- [MobileAppTracking](http://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 
 ### Utility
@@ -228,15 +228,15 @@ My personal recommendation is (for now) to use the android api to build a native
 ### HTML, CSS and Javascript
 
 - [PhoneGap](http://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
-- [Titanium](http://www.appcelerator.com/titanium/) - Open-source framework to create 'native' cross platform apps using JavaScript.
-- [NativeScript](http://www.nativescript.org) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
+- [Titanium](http://www.appcelerator.com/product/) - Open-source framework to create 'native' cross platform apps using JavaScript.
+- [NativeScript](https://www.nativescript.org/) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
 - [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
 - [Ionic Framework](http://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
 - [Apache Cordova](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 - [Reapp.io](http://reapp.io/) - Cordova based framework to build hybrid apps with mobile-optimized HTML, CSS and JS with ReactJS.
 
 ### Lua
-- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
+- [Corona SDK](https://coronalabs.com/products/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
 - [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
@@ -245,7 +245,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
-- [Groovy Language Support for Android](https://github.com/melix/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
+- [Groovy Language Support for Android](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
