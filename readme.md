@@ -115,7 +115,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### JSON
 
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-- [Jackson JSON Processor](http://www.codehaus.org/) - High-performance JSON processor.
+- [Jackson JSON Processor](http://wiki.fasterxml.com/JacksonHome) - High-performance JSON processor.
 
 ### Crash monitoring
 
