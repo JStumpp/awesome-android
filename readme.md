@@ -117,11 +117,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### JSON
 
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-- [Jackson JSON Processor](http://wiki.fasterxml.com/JacksonHome) - High-performance JSON processor.
+- [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
 
 ### Crash monitoring
 
-- [Crashlytics](https://crashlytics.com) - Easy crash reporting solution.
+- [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](http://hockeyapp.net) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
 - [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
@@ -185,9 +185,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Other
 
 - [Android Support library](http://developer.android.com/tools/support-library/index.html) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
-- [Google Play Services](http://developer.android.com/google/play-services/index.html) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
+- [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
-- [Android Annotation framework](https://github.com/excilys/androidannotations) - Using Java annotations, developers can show their intent and let AndroidAnnotations generate the plumbing code at compile time.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 - [Android Scripting](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
 - [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
@@ -219,7 +218,6 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
 - [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
-- [Android.hew.io](http://android.hew.io) - Yet another list of android libraries.
 
 ## Development Alternatives
 
@@ -245,7 +243,7 @@ My personal recommendation is (for now) to use the android api to build a native
 ### Scala
 - [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
 - [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
-- [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
+- [Macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android.
 
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
@@ -253,7 +251,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
-- [Anko](https://github.com/JetBrains/anko) - DSL for Android written in Kotlin by JetBrains.
+- [Anko](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection writen in Kotlin based on ButterKnife
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples writen in Kotlin.
 - [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
