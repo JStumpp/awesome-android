@@ -76,6 +76,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
 - [Snap RecyclerView Utils](https://prashantsolanki3.github.io/Snap-RecyclerView-Utils/) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
+- [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
