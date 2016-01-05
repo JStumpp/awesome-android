@@ -170,6 +170,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [MobileAppTracking](http://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
+- [Countly][https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
 
 ### Utility
 
