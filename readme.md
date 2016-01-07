@@ -23,6 +23,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Testing](#testing)
     - [Tracking](#tracking)
     - [Utility](#utility)
+    - [Debug builds tools](#debug_builds)
     - [Wireless](#wireless)
     - [Other](#other)
 - [Resources](#resources)
@@ -179,6 +180,13 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager](https://prashantsolanki3.github.io/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
+
+
+### Debug Builds
+
+- [Linx](https://github.com/pedrovgs/Lynx) - show logcat inside the device for debug builds
+- [Scalpel](https://github.com/JakeWharton/scalpel) - view the entire hierarchy in 3d in the phone.
+- [Stetho](https://github.com/facebook/stetho) - debug hierarchy and network from chrome.
 
 ### Wireless
 
