@@ -23,7 +23,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Testing](#testing)
     - [Tracking](#tracking)
     - [Utility](#utility)
-    - [Debug builds tools](#debug_builds)
+    - [Debugging tools](#debugging_tools)
     - [Wireless](#wireless)
     - [Other](#other)
 - [Resources](#resources)
@@ -182,11 +182,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Secure Preference Manager](https://prashantsolanki3.github.io/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
 
 
-### Debug Builds
+### Debugging Tools
 
-- [Linx](https://github.com/pedrovgs/Lynx) - show logcat inside the device for debug builds
-- [Scalpel](https://github.com/JakeWharton/scalpel) - view the entire hierarchy in 3d in the phone.
-- [Stetho](https://github.com/facebook/stetho) - debug hierarchy and network from chrome.
+- [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
+- [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
+- [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 
 ### Wireless
 
