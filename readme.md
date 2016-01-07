@@ -23,7 +23,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Testing](#testing)
     - [Tracking](#tracking)
     - [Utility](#utility)
-    - [Debugging tools](#debugging_tools)
+    - [Debugging tools](#debugging-tools)
     - [Wireless](#wireless)
     - [Other](#other)
 - [Resources](#resources)
