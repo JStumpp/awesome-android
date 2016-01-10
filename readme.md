@@ -22,6 +22,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [REST](#rest)
     - [Testing](#testing)
     - [Tracking](#tracking)
+    - [Maps](#maps)
     - [Utility](#utility)
     - [Debugging tools](#debugging-tools)
     - [Wireless](#wireless)
@@ -141,6 +142,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
+- [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
 - [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
@@ -172,6 +174,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MobileAppTracking](http://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly][https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
+
+### Maps
+
+- [Google-Directions-Android] - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
 
 ### Utility
 
