@@ -154,7 +154,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 #### ORM
 
-- [GreeDAO](http://greendao-orm.com) - Light & fast ORM solution.
+- [GreeDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
 - [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
@@ -173,7 +173,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Tracking
 
-- [MobileAppTracking](http://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
+- [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly][https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
 
