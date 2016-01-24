@@ -140,6 +140,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Volley](http://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
+- [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
