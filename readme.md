@@ -175,7 +175,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
-- [Countly][https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
+- [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
 
 ### Maps
 
@@ -190,7 +190,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager](https://prashantsolanki3.github.io/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
-
+- [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
 
 ### Debugging Tools
 
@@ -215,6 +215,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 - [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
 - [Caffeine](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
+- [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
 ## Resources
 
