@@ -192,6 +192,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Secure Preference Manager](http://prashantsolanki.com/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
 - [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
+- [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 
 ### Debugging Tools
 
