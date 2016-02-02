@@ -77,7 +77,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
-- [Snap RecyclerView Utils](https://prashantsolanki3.github.io/Snap-RecyclerView-Utils/) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
+- [Snap RecyclerView Utils](http://prashantsolanki.com/Snap-RecyclerView-Utils/) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
 - [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 
@@ -189,7 +189,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
-- [Secure Preference Manager](https://prashantsolanki3.github.io/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
+- [Secure Preference Manager](http://prashantsolanki.com/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
 - [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 
