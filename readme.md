@@ -191,6 +191,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager](https://prashantsolanki3.github.io/Secure-Pref-Manager/) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
 - [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
+- [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 
 ### Debugging Tools
 
