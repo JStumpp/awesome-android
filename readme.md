@@ -220,6 +220,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Caffeine](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
 - [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
+- [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
 
 ## Resources
 
