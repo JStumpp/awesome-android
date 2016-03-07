@@ -155,6 +155,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 #### ORM
 
+- [requery](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
 - [GreeDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
