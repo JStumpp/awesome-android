@@ -61,7 +61,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [AndEngine](http://www.andengine.org/) - Free, Fun and Fast Android 2D OpenGL Game Engine.
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
-- [Vuforia](https://www.qualcomm.com/products/vuforia) - Augmented Reality library.
+- [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](http://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 
@@ -221,6 +221,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
 - [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
+- [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 
 ## Resources
 
