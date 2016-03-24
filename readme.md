@@ -50,6 +50,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
 
+### Data binding
+
+- [Anvil](https://github.com/zserge/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
+
 ### Dependency Injection
 
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
