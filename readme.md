@@ -259,7 +259,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### C&#35;
 
-- [Xamarin](https://xamarin.com) - Framework to create native iOS, Android, Mac and Windows apps in C#.
+- [Xamarin](https://www.xamarin.com/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
 
 ### HTML, CSS and Javascript
 
