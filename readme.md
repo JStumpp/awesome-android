@@ -231,6 +231,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
 - [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
+- [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 
 ## Resources
 
