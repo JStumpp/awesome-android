@@ -60,7 +60,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
-- [Dagger 2](https://github.com/square/Dagger) - A fast dependency injector for Android and Java.
+- [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
 
