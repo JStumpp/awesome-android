@@ -60,6 +60,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
+- [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
 
@@ -226,6 +227,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 - [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
+- [RxJava](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [Caffeine](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
 - [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
@@ -245,7 +247,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
-- [Android UI design resources] (http://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
+- [Android UI design resources] (https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project] (http://pencil.evolus.vn/) - An open source prototyping software.
 - [Google Wear App](https://github.com/mbcrump/FirstGoogleWearableApp) - This is an open source Google Wear App that uses speech recognition to calculate a tip.
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
