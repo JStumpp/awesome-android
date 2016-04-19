@@ -187,6 +187,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
+- [CleverTap](https://clevertap.com) - Analytics platform and user-engagment platform with 1 million free events
 
 ### Maps
 
