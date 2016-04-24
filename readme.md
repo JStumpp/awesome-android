@@ -135,7 +135,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Crash monitoring
 
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
-- [HockeyApp](http://hockeyapp.net) - Distribution, Crash Reports, Feedback and Analytics
+- [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
 - [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
 
