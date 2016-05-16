@@ -26,6 +26,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Utility](#utility)
     - [Debugging tools](#debugging-tools)
     - [Wireless](#wireless)
+    - [Chat and Messaging](#chat)
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
@@ -217,6 +218,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Wireless
 
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
+
+### Chat & Messaging
+
+- [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
+
 
 ### Other
 
