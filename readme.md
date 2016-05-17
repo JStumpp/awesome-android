@@ -55,7 +55,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Anvil](https://github.com/zserge/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
 - [RoboBinding](https://github.com/RoboBinding/RoboBinding) - A data-binding Presentation Model (MVVM) framework for the Android platform.
-- [Data Binding Library](http://developer.android.com/tools/data-binding/guide.html) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
+- [Data Binding Library](https://developer.android.com/tools/data-binding/guide.html) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
 
 ### Dependency Injection
 
@@ -147,7 +147,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 - [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
-- [Android Volley](http://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
+- [Android Volley](https://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
 - [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
@@ -226,7 +226,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Other
 
-- [Android Support library](http://developer.android.com/tools/support-library/index.html) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
+- [Android Support library](https://developer.android.com/tools/support-library/index.html) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
@@ -255,7 +255,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Weekly](http://androidweekly.net) - Newsletter with weekly information about android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
-- [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
+- [Device Art Generator](https://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
 - [Android UI design resources] (https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project] (http://pencil.evolus.vn/) - An open source prototyping software.
 - [Google Wear App](https://github.com/mbcrump/FirstGoogleWearableApp) - This is an open source Google Wear App that uses speech recognition to calculate a tip.
