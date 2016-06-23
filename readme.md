@@ -211,6 +211,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
+- [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 
 ### Debugging Tools
 
