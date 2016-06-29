@@ -26,7 +26,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Utility](#utility)
     - [Debugging tools](#debugging-tools)
     - [Wireless](#wireless)
-    - [Chat and Messaging](#chat)
+    - [Chat and Messaging](#chat--messaging)
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
