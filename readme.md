@@ -2,6 +2,7 @@
 
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
+- [Emulators](#emulators)
 - [Libraries](#libraries)
     - [Charts](#charts)
     - [Dependency Injection](#dependency-injection)
@@ -40,6 +41,16 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Performance](#performance)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## Emulators
+- [AMIDuOS](https://www.amiduos.com)
+- [AndY](http://andyroid.net)
+- [ARChon](https://archon-runtime.github.io)
+- [BlueStacks](http://www.bluestacks.com)
+- [Droid4X](http://www.droid4x.com)
+- [Genymotion](https://www.genymotion.com)
+- [nox](http://en.bignox.com)
+- [Xamarin](https://www.xamarin.com)
 
 ## Libraries
 
