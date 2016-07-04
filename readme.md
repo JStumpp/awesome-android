@@ -5,6 +5,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Emulators](#emulators)
 - [Libraries](#libraries)
     - [Charts](#charts)
+    - [Cloud Services](#cloud-services)
     - [Dependency Injection](#dependency-injection)
     - [Game Development](#game-development)
     - [GUI](#gui)
@@ -61,6 +62,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
+
+### Cloud Services
+
+* [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
 
 ### Data binding
 
