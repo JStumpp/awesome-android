@@ -265,6 +265,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
+- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 
 ## Resources
 
