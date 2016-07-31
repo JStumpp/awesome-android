@@ -161,6 +161,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
 - [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
+- [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 
 ### Networking
 
@@ -232,6 +233,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
+- [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
 
 ### Debugging Tools
 
