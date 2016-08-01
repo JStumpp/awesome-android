@@ -29,6 +29,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Debugging tools](#debugging-tools)
     - [Wireless](#wireless)
     - [Chat and Messaging](#chat--messaging)
+    - [Custom Dialog](#custom-dialog)
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
@@ -149,6 +150,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling,Recommended by google.
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
+- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Libary that lets you to select multiple images, video or voice for Android
 
 ### JSON
 
@@ -233,6 +235,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 
+
 ### Debugging Tools
 
 - [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
@@ -246,6 +249,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Chat & Messaging
 
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
+
+#### Custom Dialog
+
+- [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Cutome Dialog to recoder audio, store it and play it in your phone.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 
 
 ### Other
