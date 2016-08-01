@@ -110,6 +110,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
 - [DragListView](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.
 - [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.
+- [TastyToast](https://github.com/yadav-rahul/TastyToast) - Toasts with icons and color.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
