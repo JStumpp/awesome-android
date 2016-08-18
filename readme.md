@@ -30,6 +30,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Wireless](#wireless)
     - [Chat and Messaging](#chat--messaging)
     - [Custom Dialog](#custom-dialog)
+    - [Version Checking](#version-checking)
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
@@ -259,6 +260,13 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Cutome Dialog to recoder audio, store it and play it in your phone.
 - [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
+
+### Version Checking
+
+ - [AppUpdater](https://github.com/javiersantos/AppUpdater) - comprehensive and feature rich library, including support for checks at Amazon and FDroid.
+ - [Gandalf](https://github.com/btkelly/gandalf) - comprehensive features and a "companion" iOS solution.
+ - [Siren](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
+ - [Fit](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
 
 
 ### Other
