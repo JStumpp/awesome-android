@@ -88,7 +88,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndEngine](http://www.andengine.org/) - Free, Fun and Fast Android 2D OpenGL Game Engine.
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
-- [Unity](http://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
+- [Unity](https://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 
 ### GUI
