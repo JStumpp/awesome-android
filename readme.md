@@ -146,6 +146,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Emojicon](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
 - [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
+- [PodSlider](https://github.com/bhargavms/PodSLider) - A cool slider widget than can also be used with a ViewPager.
 
 #### Loading Images
 
