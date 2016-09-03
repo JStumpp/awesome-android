@@ -218,6 +218,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Robotium](https://github.com/robotiumtech/robotium) - Test automation framework for black-box UI tests.
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
+- [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
 
 ### Tracking
 
