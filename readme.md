@@ -260,6 +260,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Chat & Messaging
 
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
+- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
 
 #### Custom Dialog
 
