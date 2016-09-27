@@ -295,6 +295,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+- [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 
 ## Resources
 
