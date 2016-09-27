@@ -320,7 +320,6 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### More lists of libraries
 - [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
-- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 
