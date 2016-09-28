@@ -115,6 +115,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - Toasts with icons and color.
 - [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 - [PodSlider](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
+- [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
