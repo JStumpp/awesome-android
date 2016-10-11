@@ -327,7 +327,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ## Development Alternatives
 
-My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code. But there are also use cases where alternatives like cross-platform development can be useful.
+My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code but it adds to many methods (Multidex required). Kotlin is a modern language with 100% interoperatibility with java projects **without multidex**. But there are also use cases where alternatives like cross-platform development can be useful.
 
 ### C&#35;
 
