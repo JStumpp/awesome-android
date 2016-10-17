@@ -166,12 +166,12 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Crash monitoring
 
-- [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
 - [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
+- [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 
 ### Networking
 
@@ -322,7 +322,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
 
 ### More lists of libraries
-- [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
+- [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 
