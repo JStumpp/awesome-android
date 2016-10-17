@@ -93,6 +93,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### GUI
 
+- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
@@ -165,6 +166,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Crash monitoring
 
+- [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
