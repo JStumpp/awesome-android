@@ -236,6 +236,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
 - [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
 - [Clusterkraf](https://github.com/twotoasters/clusterkraf) - Clustering library for the Google Maps Android API v2
+- [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
 
 ### Utility
 
