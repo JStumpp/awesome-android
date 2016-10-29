@@ -279,6 +279,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
  - [Gandalf](https://github.com/btkelly/gandalf) - comprehensive features and a "companion" iOS solution.
  - [Siren](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
  - [Fit](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
+ - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
 
 
 ### Other
