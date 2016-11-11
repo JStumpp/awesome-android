@@ -52,7 +52,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [BlueStacks](http://www.bluestacks.com)
 - [Droid4X](http://www.droid4x.com)
 - [Genymotion](https://www.genymotion.com)
-- [nox](http://en.bignox.com)
+- [nox](http://www.bignox.com)
 - [Xamarin](https://www.xamarin.com)
 
 ## Libraries
