@@ -259,6 +259,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
 - [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
+- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 
 ### Wireless
 
