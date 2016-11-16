@@ -93,6 +93,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### GUI
 
+- [Audiogram](https://github.com/alxrm/Audiogram) - Lightweight audiowave progressbar
 - [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
