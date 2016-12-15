@@ -93,6 +93,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### GUI
 
+- [Youtube play icon](https://github.com/alxrm/youtube-play-icon) - Material styled morphing play-pause drawable
 - [Timecon](https://github.com/alxrm/Timecon) - Easy-to-use animated clock icon
 - [Audiogram](https://github.com/alxrm/Audiogram) - Lightweight audiowave progressbar
 - [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
