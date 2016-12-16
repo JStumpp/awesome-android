@@ -50,9 +50,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndY](http://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](http://www.bluestacks.com)
-- [Droid4X](http://www.droid4x.com)
 - [Genymotion](https://www.genymotion.com)
-- [nox](http://www.bignox.com)
+- [nox](https://www.bignox.com)
 - [Xamarin](https://www.xamarin.com)
 
 ## Libraries
@@ -93,9 +92,6 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### GUI
 
-- [Timecon](https://github.com/alxrm/Timecon) - Easy-to-use animated clock icon
-- [Audiogram](https://github.com/alxrm/Audiogram) - Lightweight audiowave progressbar
-- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
@@ -121,6 +117,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 - [MaterialIntroScreen](https://github.com/TangoAgency/material-intro-screen) - Material Intro Screen implementation with easily extensible API.
 - [FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation.
+- [Timecon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon
+- [Audiogram](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar
+- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
