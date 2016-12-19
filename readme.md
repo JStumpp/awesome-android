@@ -255,6 +255,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 - [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
+- [oAuthLibGithub](https://github.com/geniushkg/github-oauth/) - Integrate authentication using github oauth 2.0
 
 
 ### Debugging Tools
