@@ -140,7 +140,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
 - [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
-- [Swipper](https://github.com/pkarira/swipper) - Android library for swipable gestures to control volume , brightness and seek .
+- [Swipper](https://github.com/sdsmdg/Swipper) - Android library for swipable gestures to control volume , brightness and seek .
 
 #### Images
 
@@ -176,7 +176,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
-- [Bugsnag](https://bugsnag.com/) - Cross platform error monitoring.
+- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 
@@ -360,7 +360,6 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Corona SDK](https://coronalabs.com/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
-- [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
 - [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
 - [Macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android.
 
