@@ -222,6 +222,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### REST
 
 - [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface.
+- [Spring for Android - Rest Template](https://github.com/spring-projects/spring-android) - A Rest Client for Android.
 
 ### Testing
 
