@@ -67,7 +67,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Cloud Services
 
-* [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
+- [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
 
 ### Data binding
 
@@ -81,6 +81,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
 - [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
+- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
 
 ### Game Development
