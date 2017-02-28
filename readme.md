@@ -19,6 +19,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
+    - [Logger](#logger)
     - [Notifications](#notifications)
     - [Database](#database)
         - [ORM](#orm)
@@ -200,6 +201,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 - [Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) - SDK for optimizing HTTP requests and free analytics service for networking.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
+
+### Logger
+- [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android
+- [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
