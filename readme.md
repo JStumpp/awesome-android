@@ -119,7 +119,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
-- [Emojicon](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
+- [Emojicon](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app.
+- [iOS-SwitchView](https://github.com/luongvo/iOS-SwitchView) - A lightweight iOS switch view style for Android.
 
 #### Loading Images
 
