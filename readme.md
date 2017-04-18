@@ -209,6 +209,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
 - [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
+- [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
@@ -262,6 +263,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Utility
 
+- [Conceal SharedPreferences](https://github.com/afiqiqmal/ConcealSharedPreference-Android) - Secured Preferences using Facebook Secure Encryption called Conceal. 
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
