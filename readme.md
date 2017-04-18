@@ -208,6 +208,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android
 - [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
+- [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
 - [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
 
 ### Notifications
