@@ -125,6 +125,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Timecon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon
 - [Audiogram](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar
 - [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
+- [PatternLockView](https://github.com/aritraroy/PatternLockView) - An easy-to-use, customizable, Material Design complaint Pattern Lock view for Android
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
