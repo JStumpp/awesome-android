@@ -35,6 +35,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Chat and Messaging](#chat--messaging)
     - [Custom Dialog](#custom-dialog)
     - [Version Checking](#version-checking)
+    - [Date & Time](#date--time)
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
@@ -305,6 +306,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
  - [Siren](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
  - [Fit](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
 
+### Date & Time
+
+- [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
+- [Joda-Time Android](https://github.com/dlew/joda-time-android#why-this-library) - Joda-Time library with Android specialization.
+- [True Time](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
 
 ### Other
 
