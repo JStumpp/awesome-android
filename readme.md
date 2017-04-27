@@ -309,7 +309,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Date & Time
 
 - [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
-- [Joda-Time Android](https://github.com/dlew/joda-time-android#why-this-library) - Joda-Time library with Android specialization.
+- [Joda-Time Android](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 - [True Time](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
 
 ### Other
