@@ -17,7 +17,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
         - [Images](#images)
         - [Inputs](#inputs)
         - [Loading images](#loading-images)
+    - [Camera](#camera)
         - [Video](#video)
+        - [Photography](#photography)
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
@@ -172,9 +174,15 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Libary that lets you to select multiple images, video or voice for Android
 
+### Camera
+
 #### Video
 
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
+
+#### Photography
+
+- [MagicalCamera](https://github.com/fabian7593/MagicalCamera) - Simple way to take or select photos of your gallery, with other features for manage pictures.
 
 ### JSON
 
