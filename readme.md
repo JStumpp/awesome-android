@@ -18,6 +18,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
         - [Inputs](#inputs)
         - [Loading images](#loading-images)
         - [Video](#video)
+        - [Camera](#camera)
     - [JSON](#json)
     - [Crash monitoring](#crash-monitoring)
     - [Networking](#networking)
@@ -175,6 +176,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Video
 
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
+
+#### Camera
+
+- [MagicalCamera](https://github.com/fabian7593/MagicalCamera) - Simple way to take or select photos of your gallery, with other features for manage pictures.
 
 ### JSON
 
