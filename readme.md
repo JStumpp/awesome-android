@@ -185,7 +185,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
-
+- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 ### Crash monitoring
 
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
@@ -269,7 +269,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Utility
 
-- [Conceal SharedPreferences](https://github.com/afiqiqmal/ConcealSharedPreference-Android) - Secured Preferences using Facebook Secure Encryption called Conceal. 
+- [Conceal SharedPreferences](https://github.com/afiqiqmal/ConcealSharedPreference-Android) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
