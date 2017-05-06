@@ -340,6 +340,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
+- [Try-with-resources Compatibility](https://github.com/prestongarno/trywithres-compat) - Standalone compile-time only dependency that backports try-with-resource statements to work with pre-API 19 devices
 
 ## Resources
 
