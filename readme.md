@@ -143,11 +143,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
-- [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
+- [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
 - [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
-- [Swipper](https://github.com/sdsmdg/Swipper) - Android library for swipable gestures to control volume , brightness and seek .
+- [Swipper](https://github.com/sdsmdg/Swipper) - Android library for swipeable gestures to control volume , brightness and seek .
 
 #### Images
 
@@ -168,10 +168,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
-- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling,Recommended by google.
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
-- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Libary that lets you to select multiple images, video or voice for Android
+- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
 
 #### Video
 
@@ -190,7 +190,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
-- [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real tima data, Statistic.
+- [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real time data, Statistic.
 - [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
@@ -226,7 +226,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
 - [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - manage database creation and version management using an application's raw asset files.
 - [Realm](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
-- [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficienty handles versioning of read-only realm databases.
+- [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.
 - [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
 
 #### ORM
@@ -258,7 +258,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
-- [CleverTap](https://clevertap.com) - Analytics platform and user-engagment platform with 1 million free events
+- [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events
 
 ### Maps
 
@@ -301,7 +301,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 #### Custom Dialog
 
-- [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Cutome Dialog to recoder audio, store it and play it in your phone.
+- [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
 - [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 
 ### Version Checking
@@ -406,8 +406,8 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### Kotlin
 - [Anko](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
-- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection writen in Kotlin based on ButterKnife
-- [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples writen in Kotlin.
+- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
+- [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
 - [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
