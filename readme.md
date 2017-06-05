@@ -69,6 +69,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
+- [AndroidWordCloud](https://github.com/alhazmy13/AndroidWordCloud) - An Android library with custom view to generate a word cloud.
 
 ### Cloud Services
 
