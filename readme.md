@@ -53,7 +53,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ## Emulators
 - [AMIDuOS](https://www.amiduos.com)
-- [AndY](http://andyroid.net)
+- [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](http://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
