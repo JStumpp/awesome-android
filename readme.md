@@ -163,6 +163,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
 - [Emojicon](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
+- [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
+- [PodSlider](https://github.com/bhargavms/PodSLider) - A cool slider widget than can also be used with a ViewPager.
 
 #### Loading Images
 
