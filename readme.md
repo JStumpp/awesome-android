@@ -53,7 +53,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ## Emulators
 - [AMIDuOS](https://www.amiduos.com)
-- [AndY](http://andyroid.net)
+- [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](http://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
@@ -232,7 +232,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### ORM
 
 - [requery](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
-- [GreeDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
+- [GreenDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
 - [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
