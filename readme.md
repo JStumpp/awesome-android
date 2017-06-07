@@ -194,6 +194,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
+- [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
 
 ### Networking
 
