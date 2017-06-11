@@ -364,6 +364,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
+- [Droid Talks](http://www.droidtalks.pro/) -  Awesome Android talks and learning resources, categorised by topic.
 - [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - A collection of materials for getting ready for the test.
 
 ### Podcast
