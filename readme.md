@@ -421,7 +421,9 @@ My personal recommendation is (for now) to use the android api to build a native
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list, or:
+
+- [Awesome android scripts](https://github.com/caipivara/awesome-android-scripts): curated scritps to do things like install dependencies on CI, create gradle.properties from env variables (or secret variables), etc.
 
 ## Contributing
 
