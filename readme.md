@@ -96,6 +96,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+- [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
 
 ### GUI
 
