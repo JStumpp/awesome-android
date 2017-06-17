@@ -129,6 +129,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 - [Litho (By Facebook)](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
+- [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
+
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
 - [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
