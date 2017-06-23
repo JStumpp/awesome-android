@@ -10,6 +10,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Cloud Services](#cloud-services)
     - [Dependency Injection](#dependency-injection)
     - [Game Development](#game-development)
+	- [Security](#security)
     - [GUI](#gui)
         - [ActionBar](#actionbar)
         - [Navigation](#navigation)
@@ -97,6 +98,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Unity](https://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
+
+### Security
+
+- [libsignal-protocol-java](https://github.com/whispersystems/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 
 ### GUI
 
