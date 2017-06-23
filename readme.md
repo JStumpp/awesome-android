@@ -402,7 +402,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Reapp.io](http://reapp.io/) - Cordova based framework to build hybrid apps with mobile-optimized HTML, CSS and JS with ReactJS.
 
 ### Lua
-- [Corona SDK](https://coronalabs.com/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
+- [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
 - [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
