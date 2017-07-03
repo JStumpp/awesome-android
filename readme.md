@@ -60,6 +60,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
 - [Xamarin](https://www.xamarin.com)
+- [Remix OS Player](http://www.jide.com/remixos-player)
 
 ## Libraries
 
