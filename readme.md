@@ -60,6 +60,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
 - [Xamarin](https://www.xamarin.com)
+- [Remix OS Player](http://www.jide.com/remixos-player)
 
 ## Libraries
 
@@ -95,7 +96,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndEngine](http://www.andengine.org/) - Free, Fun and Fast Android 2D OpenGL Game Engine.
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
-- [Unity](https://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
+- [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
 
