@@ -137,6 +137,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Litho (By Facebook)](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
+-[ChipsLover](https://github.com/vpaliyX/ChipsLover) - An implementation of a material chip based on Google's Material Design guidelines.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
