@@ -295,6 +295,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
 - [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
+- [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 
 ### Debugging Tools
 
