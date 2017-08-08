@@ -99,6 +99,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
+- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
 ### Security
 
