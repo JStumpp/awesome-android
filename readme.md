@@ -274,6 +274,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
 - [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events
+- [Bugsnag](https://www.bugsnag.com/platforms/android/) - Error tracking that includes useful info for debugging (e.g. user info, release info, session info, etc). Free for small projects / open source projects
 
 ### Maps
 
