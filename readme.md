@@ -204,7 +204,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real time data, Statistic.
-- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring.
+- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
