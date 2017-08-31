@@ -415,7 +415,6 @@ My personal recommendation is (for now) to use the android api to build a native
 - [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
 - [Ionic Framework](http://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
 - [Apache Cordova](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
-- [Reapp.io](http://reapp.io/) - Cordova based framework to build hybrid apps with mobile-optimized HTML, CSS and JS with ReactJS.
 
 ### Lua
 - [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
