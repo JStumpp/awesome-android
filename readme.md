@@ -138,6 +138,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
+- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
