@@ -56,7 +56,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AMIDuOS](https://www.amiduos.com)
 - [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
-- [BlueStacks](http://www.bluestacks.com)
+- [BlueStacks](https://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
 - [Xamarin](https://www.xamarin.com)
