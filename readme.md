@@ -312,6 +312,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
+- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices 
 
 ### Wireless
 
