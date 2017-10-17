@@ -204,6 +204,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [MagicalCamera](https://github.com/fabian7593/MagicalCamera) - Simple way to take or select photos of your gallery, with other features for manage pictures.
 
+#### Field Validation
+- [Convalida](https://github.com/WellingtonCosta/convalida) - A simple and annotation-based way to validate your input fields.
+
 ### JSON
 
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
