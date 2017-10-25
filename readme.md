@@ -144,6 +144,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
 - [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
+- [Hexagon-Recyclerview](https://github.com/xresco/Hexagon-Recyclerview) - Hexagon-Recyclerview is a child of the default Recyclerview, which makes using the Hexagon-Recyclerview exactly similar to using the default recyclerview.
+
+
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
