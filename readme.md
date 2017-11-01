@@ -9,6 +9,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Charts](#charts)
     - [Cloud Services](#cloud-services)
     - [Dependency Injection](#dependency-injection)
+    - [Android Services](#android-services)
     - [Game Development](#game-development)
 	- [Security](#security)
     - [GUI](#gui)
@@ -93,6 +94,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
 - [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
+
+### Android Services
+- [Remoter](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
 
 ### Game Development
 
