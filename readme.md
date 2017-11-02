@@ -97,6 +97,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Android Services
 - [Remoter](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
+- [Service Connector](https://github.com/josesamuel/serviceconnector) - Bind Android services and callbacks to fields and methods.
 
 ### Game Development
 
