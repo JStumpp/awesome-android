@@ -150,6 +150,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
 - [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
+#### Paginate
+- [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
+
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
 - [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
