@@ -112,7 +112,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Security
 
-- [libsignal-protocol-java](https://github.com/whispersystems/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
+- [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 
 ### GUI
 
