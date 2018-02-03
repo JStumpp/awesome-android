@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot readme.md --allow-ssl
+  - awesome_bot readme.md --allow-ssl -white-list goo.gl
