@@ -255,7 +255,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
 - [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
 - [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
-- [Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) - SDK for optimizing HTTP requests and free analytics service for networking.
+- [Packetzoom](https://www.packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) - SDK for optimizing HTTP requests and free analytics service for networking.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
 
 ### Logger
@@ -317,7 +317,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Utility
 
-- [Conceal SharedPreferences](https://github.com/afiqiqmal/ConcealSharedPreference-Android) - Secured Preferences using Facebook Secure Encryption called Conceal.
+- [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
