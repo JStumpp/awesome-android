@@ -100,13 +100,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Data binding
 
 - [Anvil](https://github.com/zserge/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
-- [RoboBinding](https://github.com/RoboBinding/RoboBinding) - A data-binding Presentation Model (MVVM) framework for the Android platform.
 - [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/index.html) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
 
 ### Dependency Injection
 
-- [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
-- [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
 - [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
@@ -119,7 +116,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Game Development
 
-- [AndEngine](http://www.andengine.org/) - Free, Fun and Fast Android 2D OpenGL Game Engine.
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
@@ -136,10 +132,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
-- [AndroidQuery](https://github.com/androidquery/androidquery) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
-- [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
-- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
 - [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
 - [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
@@ -188,7 +181,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
-- [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
@@ -321,7 +313,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
 - [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
-- [Clusterkraf](https://github.com/twotoasters/clusterkraf) - Clustering library for the Google Maps Android API v2
 - [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
 
 ### Utility
@@ -393,7 +384,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 - [Android Scripting](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
-- [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
+- [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
 - [RateMeMaybe](https://github.com/nspo/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
@@ -427,7 +418,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator.html) - Wraps app screenshots in real device artwork.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project](http://pencil.evolus.vn/) - An open source prototyping software.
-- [Google Wear App](https://github.com/mbcrump/FirstGoogleWearableApp) - This is an open source Google Wear App that uses speech recognition to calculate a tip.
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
 - [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
@@ -465,6 +455,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
 - [Ionic Framework](https://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
 - [Apache Cordova](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
+- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative. 
 
 ### Lua
 - [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
