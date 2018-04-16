@@ -173,6 +173,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
 - [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
+- [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - Library to display images in different shapes.
 
 #### Inputs
 
