@@ -480,6 +480,9 @@ My personal recommendation is (for now) to use the android api to build a native
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
 
+### Flutter
+- [Flutter](https://flutter.io/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
+
 # Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 
