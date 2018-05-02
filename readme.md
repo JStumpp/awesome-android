@@ -100,7 +100,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Data binding
 
 - [Anvil](https://github.com/zserge/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
-- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/index.html) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
+- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
 
 ### Dependency Injection
 
@@ -129,7 +129,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### GUI
 
-- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
+- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout) - A swipe refresh layout is available in the v4 support library.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
@@ -253,7 +253,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
 - [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
-- [Android Volley](https://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
+- [Android Volley](https://developer.android.com/training/volley/) - Official Android HTTP library that makes networking for easier and faster.
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
 - [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
@@ -383,7 +383,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Other
 
-- [Android Support library](https://developer.android.com/topic/libraries/support-library/index.html) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
+- [Android Support library](https://developer.android.com/topic/libraries/support-library) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
@@ -420,7 +420,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Weekly](http://androidweekly.net) - Newsletter with weekly information about android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
-- [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator.html) - Wraps app screenshots in real device artwork.
+- [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project](http://pencil.evolus.vn/) - An open source prototyping software.
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
