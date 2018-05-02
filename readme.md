@@ -207,6 +207,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
 - [InputMask](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
 
+#### View Pagers
+- [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) - Three Material Dots Indicators styles for View Pagers.
+
 #### Loading Images
 
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
