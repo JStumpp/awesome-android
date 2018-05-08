@@ -109,6 +109,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
 - [Toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
+- [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
 
 ### Android Services
 - [Remoter](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
