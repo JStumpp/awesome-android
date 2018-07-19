@@ -231,6 +231,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 #### Camera
 
 - [MagicalCamera](https://github.com/fabian7593/MagicalCamera) - Simple way to take or select photos of your gallery, with other features for manage pictures.
+- [Camera](https://github.com/duanhong169/Camera) - Use Android camera to take pictures and videos, based on camera2 api.
 
 #### Field Validation
 - [Convalida](https://github.com/WellingtonCosta/convalida) - A simple and annotation-based way to validate your input fields.
