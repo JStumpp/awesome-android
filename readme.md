@@ -79,7 +79,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [BlueStacks](https://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
-- [Xamarin](https://www.xamarin.com)
 - [Remix OS Player](http://www.jide.com/remixos-player)
 
 ## Libraries
@@ -456,7 +455,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### C&#35;
 
-- [Xamarin](https://www.xamarin.com/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
+- [Xamarin](https://www.visualstudio.com/xamarin/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
 
 ### HTML, CSS and Javascript
 
