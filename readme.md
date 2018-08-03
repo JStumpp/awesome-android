@@ -444,6 +444,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [Android Intelligence](https://plus.google.com/collection/ATg6b) features in-depth interviews with interesting people from the Android world.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
+- [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
 
 
 ### More lists of libraries
