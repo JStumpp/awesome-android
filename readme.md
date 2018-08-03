@@ -450,6 +450,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
+- [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
 
 ## Development Alternatives
 
