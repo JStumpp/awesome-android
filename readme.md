@@ -439,6 +439,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Droid Talks](http://www.droidtalks.pro/) -  Awesome Android talks and learning resources, categorised by topic.
 - [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - A collection of materials for getting ready for the test.
 - [Google Developers Training](https://developers.google.com/training/android/) -  Google Developers Official Training page has list of various useful learning resources for beginner as well seasoned developer.
+- [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
 
 ### Podcast
 - [Fragmented](http://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
@@ -446,12 +447,14 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [Android Intelligence](https://plus.google.com/collection/ATg6b) features in-depth interviews with interesting people from the Android world.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
+- [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
 
 
 ### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
+- [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
 
 ## Development Alternatives
 
