@@ -494,6 +494,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
 - [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
+- [Kotlin Coroutines vs. RxJava Sample](https://github.com/patrickyin/kotlin-coroutines-vs-rx) - A Kotlin Coroutines vs. RxJava sample (Android). It calls SpaceX's api to get the next rocket launch's deatil.
 
 ### Flutter
 - [Flutter](https://flutter.io/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
