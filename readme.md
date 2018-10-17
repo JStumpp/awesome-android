@@ -420,6 +420,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
 - [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
+- [gradle-kotlin-dsl-libs](https://github.com/jmfayard/gradle-kotlin-dsl-libs) - A kotlin dsl to simplify dependencies management
 
 ## Resources
 
