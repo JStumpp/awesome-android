@@ -105,6 +105,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Dependency Injection
 
 - [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
+- [Koin](https://github.com/InsertKoinIO/koin) - A pragmatic lightweight dependency injection framework for Kotlin.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
