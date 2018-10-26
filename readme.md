@@ -167,6 +167,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Easy-Signature-Android](https://github.com/smalam119/Easy-Signature-Android) - An simple ui library that provides a plugable signature view.
 - [Flashbar](https://github.com/aritraroy/Flashbar) - A highly customizable, powerful and easy-to-use alerting library for Android.
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
+- [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
 
 #### Paginate
 - [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
