@@ -346,6 +346,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
+- [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 
 ### Debugging Tools
 
