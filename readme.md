@@ -290,6 +290,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.
 - [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
 - [Nitrite Database](https://github.com/dizitart/nitrite-database) - A NoSQL embedded document store for Android with MongoDb like API.
+- [EasyDB](https://github.com/p32929/AndroidEasySQL-Library) - An Easier & Lazier approach to SQL database for Android
 
 #### ORM
 
@@ -347,6 +348,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
+- [FayazPermissions](https://github.com/p32929/FayazPermissions) - An Easier & Lazier approach to getting runtime permission in Android
 
 ### Debugging Tools
 
