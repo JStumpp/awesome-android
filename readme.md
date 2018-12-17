@@ -60,6 +60,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [Runtime Permissions](#runtime-permissions)
     - [Other](#other)
 - [Resources](#resources)
+    - [Code examples](#code-examples)
+    - [Podcasts](#podcasts)
     - [More lists of libraries](#more-lists-of-libraries)
 - [Development Alternatives](#development-alternatives)
     - [C#](#c)
@@ -423,7 +425,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
 - [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
-- [gradle-kotlin-dsl-libs](https://github.com/jmfayard/gradle-kotlin-dsl-libs) - A kotlin dsl to simplify dependencies management
+- [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
 
 ## Resources
 
@@ -448,8 +450,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Google Developers Training](https://developers.google.com/training/android/) -  Google Developers Official Training page has list of various useful learning resources for beginner as well seasoned developer.
 - [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
 
-### Podcast
-- [Fragmented](http://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
+### Code examples
+- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
+
+### Podcasts
+- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [Android Intelligence](https://plus.google.com/collection/ATg6b) features in-depth interviews with interesting people from the Android world.
