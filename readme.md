@@ -81,7 +81,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [BlueStacks](https://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
-- [Remix OS Player](http://www.jide.com/remixos-player)
 
 ## Libraries
 
@@ -122,7 +121,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
-- [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
+- [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
 ### Security
@@ -332,7 +331,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [GLMap](https://getyourmap.com) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
-- [Reactor](https://github.com/dfmabbas/reactor) - Reactor is a fast and secure key-value library for Android.
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
@@ -350,6 +348,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 - [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
+- [Reactor](https://github.com/arshanaqdi/reactor) - Reactor is a fast and secure key-value library for Android.
  
 ### Debugging Tools
 
