@@ -70,6 +70,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [Scala](#scala)
     - [Groovy](#groovy)
     - [Kotlin](#kotlin)
+    - [Flutter](#flutter)
 - [Performance](#performance)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
