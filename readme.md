@@ -454,6 +454,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 
+- [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
+
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
