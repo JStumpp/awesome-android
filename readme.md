@@ -451,6 +451,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Google Developers Training](https://developers.google.com/training/android/) -  Google Developers Official Training page has list of various useful learning resources for beginner as well seasoned developer.
 - [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
 - [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
+- [Building Spring Boot Applications with the Kotlin Programming Language](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language) - LiveVideo course that teaches you to write clean, concise, easily maintainable Kotlin code using Spring Boot.
 
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
