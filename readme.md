@@ -204,6 +204,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
 - [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - Library to display images in different shapes.
+- [Turtlebody-Media-Picker](https://github.com/Turtlebody/android-media-picker) - Library to pick images/video/audio with custom ui like whatsApp.
 
 #### Inputs
 
@@ -226,6 +227,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
+- [Turtlebody-Image-Preview](https://github.com/Turtlebody/android-image-preview) - Library to preview image/images, like in gallery.
 
 #### Video
 
@@ -233,6 +235,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Exoplayer](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 - [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
+- [Turtlebody-Media-Picker](https://github.com/Turtlebody/android-media-picker) - Library to pick images/video/audio with custom ui like whatsApp.
 
 #### Camera
 
