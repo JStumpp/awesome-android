@@ -397,6 +397,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 - [NoPermission](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 
+### Payments
+
+- [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
+
 ### Other
 
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
