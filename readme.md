@@ -371,6 +371,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
 - [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
+- [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 
 #### Custom Dialog
 
