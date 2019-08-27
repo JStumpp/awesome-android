@@ -93,6 +93,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
 - [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - Draw Creative Statistic Arc Charts.
 - [AnyChart](https://github.com/AnyChart/AnyChart-Android) - Data visualization library, Interactive charts.
+- [Stream Chat](https://getstream.io/tutorials/android-chat) - Comprehensive SDK & Components for real-time chat.
 
 ### Cloud Services
 
