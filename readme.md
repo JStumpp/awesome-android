@@ -466,12 +466,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
+- [Fragmented](https://fragmentedpodcast.com/) is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
 - [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
-
+- [Android Authority](https://www.androidauthority.com/podcast) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
+- [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
 
 ### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
