@@ -464,6 +464,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
+- [Material-Resources-Library](https://github.com/mohammadima3oud/Material-Resources-Library) - A list of most useful resources for designing android apps such as all material colors and dimens, 180 Gradient background + html, social, flat, fluent, metro colors.
 
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
