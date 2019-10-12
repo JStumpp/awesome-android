@@ -174,6 +174,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
 - [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
 - [OneAdapter](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
+- [BlueSignIn](https://github.com/mohammadima3oud/BlueSignIn) - Sign In and Sign Up UI Design to be used in your apps.
 
 #### Paginate
 - [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
