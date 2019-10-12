@@ -464,6 +464,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
+- [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
 
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
