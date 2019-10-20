@@ -39,6 +39,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
         - [Images](#images)
         - [Inputs](#inputs)
         - [Loading images](#loading-images)
+        - [Media Picker](#media-picker)
         - [Video](#video)
         - [Camera](#camera)
         - [Field Validation](#field-validation)
@@ -229,7 +230,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
+
+#### Media Picker
+
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
+- [Android Image Picker](https://github.com/esafirm/android-image-picker) - A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action
 
 #### Video
 
