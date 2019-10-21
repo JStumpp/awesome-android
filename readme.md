@@ -10,10 +10,13 @@
 # About
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
-# Supported with ❤️ by [Instabug](https://goo.gl/ykpN6D)
-[![android](https://user-images.githubusercontent.com/9888943/35685005-23aa115a-0771-11e8-9ca7-82f41daeeafd.gif)](https://goo.gl/9UVi6P)
-> Instabug SDK allows Android developers to receive detailed bug reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. [Learn more.](https://goo.gl/wGJngN)🚀
- [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
+## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
+### Understand How Your Android App is Doing with Real-Time Contextual Insights From Your Users
+[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
+>Instabug helps Android developers and product teams easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
+> Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
+
 
 # How to Use
 Awesome-Android is an amazing list for people who need a certain feature on their app, so the best ways to use are:
@@ -36,6 +39,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
         - [Images](#images)
         - [Inputs](#inputs)
         - [Loading images](#loading-images)
+        - [Media Picker](#media-picker)
         - [Video](#video)
         - [Camera](#camera)
         - [Field Validation](#field-validation)
@@ -100,7 +104,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Data binding
 
-- [Anvil](https://github.com/zserge/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
+- [Anvil](https://github.com/anvil-ui/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
 - [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
 
 ### Dependency Injection
@@ -210,7 +214,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
-- [EmojiCompat](https://github.com/googlesamples/android-EmojiCompat) - Adds emoticons to your app
+- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) - Adds emoticons to your app
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
 - [InputMask](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
 - [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - Password EditText that allows to custom toggle button
@@ -226,7 +230,12 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
+- [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+
+#### Media Picker
+
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
+- [Android Image Picker](https://github.com/esafirm/android-image-picker) - A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action
 
 #### Video
 
@@ -374,6 +383,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 - [Stream Chat](https://getstream.io/tutorials/android-chat) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/).
+- [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) - Add push notifications in your Android chat apps in Kotlin with the help of CometChat Pro and Firebase Cloud Messaging (FCM).
 
 #### Custom Dialog
 
@@ -458,17 +468,19 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [AndroidVille](https://ayusch.com/) - Become a better Android Engineer. A website dedicated to Android Development covering advanced topics such as RxJava, Android Zygote and much more.
 
 ### Code examples
-- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
+- [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
+- [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
+- [Fragmented](https://fragmentedpodcast.com/) is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
 - [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
-
+- [Android Authority](https://www.androidauthority.com/podcast) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
+- [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
 
 ### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
