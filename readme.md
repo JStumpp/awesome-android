@@ -350,9 +350,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
-- [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
-- [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
@@ -409,6 +407,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 - [NoPermission](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
+- [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
+- [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
+- [EasyPermissions](https://github.com/googlesamples/easypermissions) - EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.
 
 ### Payments
 
