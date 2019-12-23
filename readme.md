@@ -279,6 +279,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
 - [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
+- [Kohttp](https://github.com/rybalkinsd/kohttp) - highly customizable, lightweight DSL HTTP client.
 
 ### Logger
 - [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android
