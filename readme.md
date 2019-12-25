@@ -382,6 +382,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 - [Stream Chat](https://getstream.io/tutorials/android-chat/) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/).
 - [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) - Add push notifications in your Android chat apps in Kotlin with the help of CometChat Pro and Firebase Cloud Messaging (FCM).
+- [How to choose between Firebase and CometChat Pro](https://www.cometchat.com/blog/firebase-vs-cometchat/) - A comparison between CometChat Pro & Firebase SDK for creating chat apps in Android.
 
 #### Custom Dialog
 
