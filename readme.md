@@ -444,6 +444,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
 - [Teller](https://github.com/levibostian/Teller-Android/) - Teller facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!
+- [Aimybox](https://github.com/just-ai/aimybox-android-assistant) - A Kotlin SDK that makes it easy to build and embed voice enabled assistants into any Android application
 
 ## Resources
 
