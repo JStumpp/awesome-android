@@ -175,6 +175,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
 - [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
 - [OneAdapter](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
+- [DeclarativeAdapter-kt](https://github.com/andob/DeclarativeAdapter-kt) - Generic, declarative RecyclerView Adapter, to easily create list screens, without boilerplate. 
 
 #### Paginate
 - [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
@@ -312,6 +313,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [NexusData](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
 - [RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) - Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.
+- [ROOM-Dynamic-Dao](https://github.com/andob/ROOM-Dynamic-Dao) - A simple query builder for Google's ROOM ORM
 
 ### REST
 
@@ -343,6 +345,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
+- [ActivityResultEventBus](https://github.com/andob/ActivityResultEventBus) - Tiny simple EventBus to handle activity result-like behaviors
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
@@ -356,6 +359,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 - [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
 - [Reactor](https://github.com/oky2abbas/reactor) - Reactor is a fast and secure key-value library for Android.
+- [DobDroidMVVM](https://github.com/andob/DobDroidMVVM) - A MVVM mini framework that will help you develop faster and cleaner CRUD-based apps.
  
 ### Debugging Tools
 
