@@ -192,6 +192,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 - [Debug-Artist](https://github.com/BaristaVentures/android-debug-artist) - Debug menu to enable leakcanary, scalpel and others easy.
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
+- [SlidingUpMenu](https://github.com/r4sh33d/SlidingUpMenu) - A very customizable library that helps to present menu items (from menu resource and/or other sources) to users as a bottom sheet.
 
 #### Animations
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
