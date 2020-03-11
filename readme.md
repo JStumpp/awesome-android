@@ -447,6 +447,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ## Resources
 
+- [Best videos from the Android community](https://github.com/Yelp/android-school) - Video resources for Android development and beyond
 - [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
 - [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
