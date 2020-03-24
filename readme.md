@@ -106,6 +106,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Anvil](https://github.com/anvil-ui/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
 - [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
+- [Lychee](https://github.com/Miha-x64/Lychee) — a powerful data binding library for Kotlin-based UI and with support for SharedPreferences, JSON, and SQLite.
 
 ### Dependency Injection
 
