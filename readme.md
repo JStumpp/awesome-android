@@ -410,6 +410,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
 - [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
 - [EasyPermissions](https://github.com/googlesamples/easypermissions) - EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.
+- [Dexter](https://github.com/Karumi/Dexter) - Dexter is a simple permission manager with single and multiple permission queries at runtime.
 
 ### Payments
 
