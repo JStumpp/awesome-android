@@ -175,6 +175,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
 - [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
 - [OneAdapter](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
+- [PrimeDatePicker](https://github.com/aminography/PrimeDatePicker) - A tool for picking a single day, multiple days, and a range of days for Civil, Persian, Hijri, Japanese, and etc calendar systems. 
 
 #### Paginate
 - [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
@@ -401,6 +402,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
 - [Joda-Time Android](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 - [True Time](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
+- [PrimeCalendar](https://github.com/aminography/PrimeCalendar) - Provides all of the "java.util.Calendar" functionalities for Persian, Hijri, Japanese, etc, as well as their conversion to each other.
 
 ### Runtime Permissions
 
