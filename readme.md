@@ -372,6 +372,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Wireless
 
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
+- [BluetoothCommunicator](https://github.com/niedev/BluetoothCommunicator) - P2P Bluetooth LE library to communicate between android devices.
 
 ### Chat & Messaging
 
