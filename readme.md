@@ -209,6 +209,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
 - [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - Library to display images in different shapes.
+- [IridescentView](https://github.com/alexandrehtrb/IridescentView) - A custom ImageView with iridescence effect.
 
 #### Inputs
 
