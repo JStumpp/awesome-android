@@ -356,6 +356,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 - [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
 - [Reactor](https://github.com/oky2abbas/reactor) - Reactor is a fast and secure key-value library for Android.
+- [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for finding i18n keys usages in Java and Kotlin files.
  
 ### Debugging Tools
 
