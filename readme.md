@@ -204,7 +204,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 #### Images
 
 - [Crescento](https://github.com/developer-shivam/crescento) - Explore new style in material design by adding curve below image view.
-- [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
+- [Android Image Cropper](https://github.com/CanHub/Android-Image-Cropper) - Library project for cropping images with camera and gallery.
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
 - [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
