@@ -415,6 +415,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
 
+### Marketing
+
+- [AdaptivePlus Android SDK](https://github.com/adaptiveplus/AdaptivePlus-Android) - AdaptivePlus is the control center for marketing campaigns in mobile applications.
+
 ### Other
 
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
