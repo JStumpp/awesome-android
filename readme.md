@@ -131,6 +131,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Security
 
 - [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
+- [loki](https://github.com/joelromanpr/LoKi) - Add a passcode lock feature to your android applications hassle-free.
 - [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
 ### GUI
