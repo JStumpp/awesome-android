@@ -132,6 +132,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 - [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+- [fingerprint-android](https://github.com/fingerprintjs/fingerprint-android) - A lightweight and easy to integrate library for identifying and fingerprinting Android devices
 
 ### GUI
 
