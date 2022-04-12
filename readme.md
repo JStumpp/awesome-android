@@ -124,9 +124,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
-- [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+- [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine.
 - [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+- [Godot](https://github.com/godotengine/godot) - Cross-platform 2/3D game engine with an IDE and under MIT license.
 
 ### Security
 
