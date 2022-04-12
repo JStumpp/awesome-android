@@ -236,6 +236,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
 - [Android Image Picker](https://github.com/esafirm/android-image-picker) - A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action
+- [GalleryImageSelector](https://github.com/niedev/GalleryImageSelector) - Android library that allows you to pick and crop an image from gallery.
 
 #### Video
 
