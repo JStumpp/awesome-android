@@ -200,6 +200,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
 - [Swipper](https://github.com/mdg-iitr/Swipper) - Android library for swipeable gestures to control volume , brightness and seek .
 - [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
+- [Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) -create your custom themes and change them dynamically with ripple animation
 
 #### Images
 
