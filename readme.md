@@ -62,6 +62,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [Version Checking](#version-checking)
     - [Date & Time](#date--time)
     - [Runtime Permissions](#runtime-permissions)
+    - [AI](#AI)
     - [Other](#other)
 - [Resources](#resources)
     - [Code examples](#code-examples)
@@ -414,6 +415,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Payments
 
 - [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
+
+
+### AI
+
+- [TengineKit](https://github.com/OAID/TengineKit) - Free RealTime Face Landmarks 212 Points For Mobile App.
 
 ### Other
 
