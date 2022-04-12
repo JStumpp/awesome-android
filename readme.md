@@ -75,6 +75,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [Groovy](#groovy)
     - [Kotlin](#kotlin)
     - [Flutter](#flutter)
+- [Continuous Integration](#continuous-integration)
 - [Performance](#performance)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -533,6 +534,11 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
+
+# Continuous Integration
+- [Appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for Android with online device emulators.
+- [Bitrise.io](https://www.bitrise.io) — Cloud based continuous integration and delivery for mobile, free for OSS.
+- [Appcenter](https://appcenter.ms) — Continuously build, test, release and monitor apps.
 
 # Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
