@@ -101,6 +101,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Cloud Services
 
 - [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
+- [cidaas](https://www.cidaas.com) - client-side library to integrate cidaas for authentication and authorization of users into Android Apps. ([Github](https://github.com/Cidaas/cidaas-android-sdk))
 
 ### Data binding
 
