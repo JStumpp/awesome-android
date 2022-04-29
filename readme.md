@@ -63,6 +63,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [Date & Time](#date--time)
     - [Runtime Permissions](#runtime-permissions)
     - [Other](#other)
+- [Tools](#tools)
+    - [Localization](#localization)
 - [Resources](#resources)
     - [Code examples](#code-examples)
     - [Podcasts](#podcasts)
@@ -436,7 +438,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
-- [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
@@ -444,6 +445,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
 - [Teller](https://github.com/levibostian/Teller-Android/) - Teller facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!
+
+## Tools
+
+### Localization
+
+- [transai](https://github.com/Jintin/transai) - Command line tool help you manage localization string files.
+- [locheck](https://github.com/Asana/locheck) - Validate strings.xml files for many types of errors in translations
 
 ## Resources
 
