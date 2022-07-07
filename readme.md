@@ -417,6 +417,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Other
 
+- [Licensee](https://github.com/cashapp/licensee) - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
