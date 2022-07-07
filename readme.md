@@ -135,6 +135,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### GUI
 
+- [RoastyToasty](https://github.com/dev-aniketj/RoastyToasty) - Create custom Toast easily.
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout) - A swipe refresh layout is available in the v4 support library.
 - [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
