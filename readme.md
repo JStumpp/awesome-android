@@ -538,6 +538,12 @@ My personal recommendation is (for now) to use the android api to build a native
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 - [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
+# Shrinking
+
+- [ProGuard](https://www.guardsquare.com/proguard) - The industry-leading Java shrinker for Android apps.
+- [R8](https://developer.android.com/studio/build/shrink-code) - The default shrinker for Android apps.
+- [ProGuard Playground](https://playground.proguard.com/) - An online, interactive `-keep` rule visualiser for ProGuard and R8 configuration.
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
