@@ -444,6 +444,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
 - [Teller](https://github.com/levibostian/Teller-Android/) - Teller facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!
+- [Boilerplate to Prepare a CI/CD for Android Applications](https://github.com/maddevsio/android-ci-cd) - The boiler plate for building a CI/CD pipeline for Android via Fastlane and GitHub Actions.
 
 ## Resources
 
