@@ -231,6 +231,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+- [Landscapist](https://github.com/skydoves/landscapist) - Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.
 
 #### Media Picker
 
