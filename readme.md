@@ -536,6 +536,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 # Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
+- [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. That is, Bencher allows you to detect and prevent performance regressions before they make it to production.
 - [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
 # Other Awesome Lists
