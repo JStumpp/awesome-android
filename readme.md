@@ -405,6 +405,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Runtime Permissions
 
 - [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
+- [Permission Manager](https://github.com/alik7-cmd/permission-manager) - This Kotlin Library reduces the complexity of handling repetitive or multiple permissions in runtime.
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 - [NoPermission](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 - [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
