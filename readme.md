@@ -243,6 +243,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Exoplayer](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 - [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
+- [Video Editor SDK](https://github.com/Banuba/ve-sdk-android-integration-sample)[100⭐] - [Video Editor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers) (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.
 
 #### Camera
 
