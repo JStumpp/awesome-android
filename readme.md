@@ -340,6 +340,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
+- [DeviceAnalyzer](https://github.com/MrMonsterX/DeviceAnalyzer) - Device Analyzer is a powerful Android app that provides detailed insights into hardware specifications.
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
