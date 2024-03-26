@@ -101,6 +101,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Cloud Services
 
 - [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
+- [CRUD APIs from Beeceptor](https://beeceptor.com/crud-api/?ref=awesome-android) - Accelerate the app development with stateful, hosted CRUD APIs. Free JSON Rest APIs adhering to the best practices for CRUD operations.
 
 ### Data binding
 
