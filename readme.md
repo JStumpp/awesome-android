@@ -540,6 +540,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+- [NeuroVerse](https://github.com/Siddhesh2377/NeuroVerse) - AI-powered Android assistant with a dynamic plugin system.
 
 ## Contributing
 
