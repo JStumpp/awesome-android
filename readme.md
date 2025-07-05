@@ -350,6 +350,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
+- [Smart WebView](https://github.com/mgks/Android-SmartWebView) - Customisable Android WebView framework with plugin support and minimal setup.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
