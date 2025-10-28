@@ -132,6 +132,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 - [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+- [FilesCrypter](https://github.com/smtrz/FilesCrypter) - A lightweight Kotlin library for encrypting and decrypting large files on Android using AES .
 
 ### GUI
 
