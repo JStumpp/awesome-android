@@ -478,6 +478,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
 - [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
 - [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
+- [CellularLab](https://github.com/Abhi5h3k/CellularLab) - A native iPerf3 Android client built with Kotlin + JNI + CMake. Demonstrates how to bridge C/C++ performance tools with Android UI, and includes Gemini AI integration for log analysis and report generation.
 
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/) is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
