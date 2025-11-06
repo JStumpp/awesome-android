@@ -132,6 +132,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 - [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+- [PINkman](https://github.com/RedMadRobot/PINkman) - A library to help implementing an authentication by a PIN code in a secure manner. The library derives hash from the user's PIN using Argon2 function and stores it in an encrypted file. The file is encrypted with the AES-256 algorithm in the GCM mode and keys are stored in the AndroidKeystore. 
 
 ### GUI
 
