@@ -267,6 +267,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
+- [Measure](https://github.com/measure-sh/measure/) - Open source tool to monitor crash, ANR, performance of mobile apps in production. It can be self-hosted.
 
 ### Networking
 
