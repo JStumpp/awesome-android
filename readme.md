@@ -417,6 +417,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
 
+### Marketing
+
+- [AdaptivePlus Android SDK](https://github.com/adaptiveplus/AdaptivePlus-Android) - AdaptivePlus is the control center for marketing campaigns in mobile applications.
+
 ### Other
 
 - [Licensee](https://github.com/cashapp/licensee) - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
