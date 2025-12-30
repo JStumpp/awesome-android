@@ -440,6 +440,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
 - [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
+- [lrm](https://github.com/nickprotop/LocalizationManager) - command line tool to manage Android strings.xml files.
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
