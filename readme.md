@@ -265,6 +265,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real time data, Statistic.
 - [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
+- [CrashWatcher](https://github.com/kseongbin/CrashWatcher) - Lightweight crash and ANR detection library with detailed stack traces and device info. Zero permissions required.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
 
