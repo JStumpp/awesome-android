@@ -535,6 +535,9 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
 - [AppDimens](https://github.com/bodenberg/appdimens) - Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic)
 
+### Kuikly
+- [KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance, full-platform development framework with unified codebase. Supports Android, iOS, HarmonyOS, Web, and Mini Programs with native rendering and dynamic updates.
+
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
