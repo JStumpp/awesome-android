@@ -362,6 +362,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Debugging Tools
 
 - [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
+- [Android Nvim Plugin](https://github.com/iamironz/android-nvim-plugin) - Neovim plugin for Android/Gradle build, deploy, and logcat.
 - [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
