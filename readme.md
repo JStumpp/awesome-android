@@ -125,6 +125,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+- [SceneView](https://github.com/SceneView/sceneview-android) - Compose-native 3D & AR SDK for Android, powered by Google Filament and ARCore. The modern successor to Google Sceneform.
 - [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
