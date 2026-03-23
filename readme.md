@@ -340,6 +340,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
 - [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
 - [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
+- [MapMetrics Native SDK](https://github.com/MapMetrics/mapmetrics-native-sdk) - A Mapbox GL-compatible Android SDK for interactive vector maps with tiles, geocoding, routing, and search.
 
 ### Utility
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
