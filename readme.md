@@ -369,6 +369,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 - [Pidcat](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
 - [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
+- [WormaCeptor](https://github.com/azikar24/WormaCeptor) - All-in-one on-device Android debugging toolkit with 20+ features including network inspection (OkHttp + Ktor), performance monitoring, crash reporting, leak detection, SQLite browser, and more.
 
 
 ### Wireless
