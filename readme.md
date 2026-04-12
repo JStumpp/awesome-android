@@ -121,6 +121,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Game Development
 
+- [SceneView](https://github.com/sceneview/sceneview) - 3D & AR SDK for Jetpack Compose. Filament rendering, ARCore integration, 26+ composable node types. Successor to Google Sceneform. [Open Source](https://github.com/sceneview/sceneview)
+
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
