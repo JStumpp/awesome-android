@@ -471,6 +471,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
 - [AndroidVille](https://ayusch.com/) - Become a better Android Engineer. A website dedicated to Android Development covering advanced topics such as RxJava, Android Zygote and much more.
 - [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - A weekly newsletter on new development and updates of Android universe.
+- [Composables.com](https://composables.com) - A catalog of Compose Multiplatform and Jetpack Compose components with code samples and previews.
 
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
