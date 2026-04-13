@@ -195,6 +195,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 #### Animations
 - [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) -  Kotlin library for simplifying animations and transitions in Jetpack Compose.
+- [Compose Unstyled](https://github.com/composablehorizons/compose-unstyled) - Unstyled, accessible UI primitives for Jetpack Compose and Compose Multiplatform.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
@@ -493,6 +494,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Square libraries](https://square.github.io/) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 - [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
+- [Composables.com](https://composables.com) - A catalog of Compose Multiplatform and Jetpack Compose components with code samples and previews.
 
 ## Development Alternatives
 
