@@ -168,6 +168,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Litho (By Facebook)](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
+- [Snax]([link](https://github.com/milad-Mohammadi/snax)) - A Powerful, Fully Customizable Snackbar library for Jetpack Compose
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
 - [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 - [Easy-Signature-Android](https://github.com/smalam119/Easy-Signature-Android) - An simple ui library that provides a plugable signature view.
