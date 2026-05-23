@@ -369,6 +369,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 - [Pidcat](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
 - [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
+- [handsets](https://github.com/elliotgao2/handsets) - High-performance Android control CLI for agents and humans, with millisecond-level latency and no APK required.
 
 
 ### Wireless
