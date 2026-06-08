@@ -416,6 +416,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Payments
 
 - [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments.
 
 ### Other
 
