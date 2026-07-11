@@ -101,6 +101,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Cloud Services
 
 - [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
+- [WarpLink](https://github.com/WarpLinkApp/warplink-android-sdk) - Deep linking, deferred deep links, and install attribution with real-time analytics.
 
 ### Data binding
 
