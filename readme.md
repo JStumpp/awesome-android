@@ -329,6 +329,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Tracking
 
+- [AppRankly](https://github.com/zmsp/AppRankly) - Self-hosted Google Play Console analytics and ASO suite.
 - [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
