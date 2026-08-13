@@ -326,6 +326,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
 - [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
+- [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server with 62 tools for AI agent control of real Android and iOS devices via ADB and WebDriverAgent. `pip install ghost-in-the-droid`
 
 ### Tracking
 
