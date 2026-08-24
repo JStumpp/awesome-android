@@ -294,6 +294,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
 - [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
+- [OTP Board](https://github.com/TOBYCAI/otp-board) - Android client that listens for SMS and system notifications, extracts OTP/verification codes, and forwards them over HTTPS to a self-hosted dashboard. Written in Kotlin.
 ### Database
 - [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
 - [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
