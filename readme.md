@@ -326,6 +326,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
 - [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
+- [Optics Framework](https://github.com/mozarkai/optics-framework) - Self-healing test automation for Android apps via Appium; keyword-driven CSV/YAML tests with locator fallback across XPath, text, OCR and image strategies.
 
 ### Tracking
 
