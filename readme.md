@@ -267,6 +267,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
+- [Measure](https://measure.sh) - Helps mobile teams to monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.
 
 ### Networking
 
