@@ -127,6 +127,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+- [SceneView](https://github.com/sceneview/sceneview) - 3D and AR library for Jetpack Compose, built on Filament and ARCore.
 
 ### Security
 
