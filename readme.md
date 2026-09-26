@@ -71,6 +71,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
     - [Lua](#lua)
+    - [Python](#python)
     - [Scala](#scala)
     - [Groovy](#groovy)
     - [Kotlin](#kotlin)
@@ -514,6 +515,12 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### Lua
 - [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
+
+### Python
+- [Kivy](https://github.com/kivy/kivy) - Open source Python framework with its own drawn UI; packaged for Android with Buildozer.
+- [BeeWare](https://github.com/beeware/toga) - Toga and Briefcase: native-looking apps written in Python, packaged for Android.
+- [Flet](https://github.com/flet-dev/flet) - Build Flutter apps in Python.
+- [ApkPy](https://github.com/apkpy-project/repo-apkpy) - Transpiles Python UI code into native Android Java, XML and Gradle; the APK has no Python runtime.
 
 ### Scala
 - [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
