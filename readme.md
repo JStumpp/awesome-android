@@ -333,6 +333,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
 - [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events
+- [Grovs](https://github.com/grovs-io/grovs-Android) - Deep links, deferred deep links and link analytics with an open-source, self-hostable backend.
 
 ### Maps
 
