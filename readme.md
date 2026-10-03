@@ -267,6 +267,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
+- [Everframe](https://everframe.dev) - In-app bug reporting for Android, Android TV and Fire TV: annotated screenshot, console, network, breadcrumbs, device info and optional replay in one report. Free tier.
 
 ### Networking
 
