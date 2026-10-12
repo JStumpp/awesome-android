@@ -390,7 +390,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
 - [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 - [Noty](https://github.com/emre1512/Noty) - A simple library for creating animated alerts/dialogs/warnings.
-
+- [Dialogo](https://github.com/abdullghani-al-shormani/dialogo) - An elegant, fully customizable Android library for creating dialogs, bottom sheets, and non-modal popups.
 ### Version Checking
 
  - [AppUpdater](https://github.com/javiersantos/AppUpdater) - comprehensive and feature rich library, including support for checks at Amazon and FDroid.
