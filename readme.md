@@ -83,6 +83,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](https://www.bluestacks.com)
+- [Clousd](https://clousd.com)
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
 
