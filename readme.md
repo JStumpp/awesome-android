@@ -130,6 +130,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Security
 
+- [FindIP Shield](https://github.com/findip-net/findip-shield-android) - VPN, proxy and Tor risk scoring before a login or signup, verified by your backend.
 - [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
 - [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
