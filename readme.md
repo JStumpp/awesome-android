@@ -238,7 +238,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
-- [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the SQLite easily via direct database access or through the ContentProvider framework.
 - [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
 - [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - Manage database creation and version management using an application's raw asset files.
 - [Realm](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
@@ -389,7 +388,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](https://jgilfelt.github.io/android-actionbarstylegenerator/) - Customize the look of the Android Action Bar.
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
-- [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
 - [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
