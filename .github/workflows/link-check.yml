@@ -1,0 +1,45 @@
+name: Link Check
+
+on:
+  pull_request:
+    paths:
+      - 'readme.md'
+      - '.github/workflows/link-check.yml'
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,429,403
+            --timeout 20
+            --max-retries 3
+            --retry-wait-time 5
+            --exclude-mail
+            ${{ github.event_name == 'pull_request' && '--base .' || 'readme.md' }}
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Create Issue From File
+        if: failure() && github.event_name == 'schedule'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links detected
+          content-filepath: ./lychee/out.md
+          labels: link-check
