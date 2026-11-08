@@ -17,6 +17,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ## Contents
 - [Emulators](#emulators)
 - [Libraries](#libraries)
+	- [Jetpack Compose](#jetpack-compose)
+	- [Architecture](#architecture)
 	- [Charts](#charts)
 	- [Data binding](#data-binding)
 	- [Dependency Injection](#dependency-injection)
@@ -28,7 +30,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 	- [Networking](#networking)
 	- [Logger](#logger)
 	- [Database](#database)
-	- [REST](#rest)
 	- [Testing](#testing)
 	- [Tracking](#tracking)
 	- [Maps](#maps)
@@ -38,28 +39,38 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 	- [Chat & Messaging](#chat--messaging)
 	- [Date & Time](#date--time)
 	- [Payments](#payments)
+	- [Google Play](#google-play)
+	- [Code Quality](#code-quality)
 	- [Other](#other)
 - [Resources](#resources)
+	- [Code examples](#code-examples)
+	- [Podcasts](#podcasts)
+	- [More lists of libraries](#more-lists-of-libraries)
 - [Development Alternatives](#development-alternatives)
-	- [C#](#c)
-	- [HTML, CSS and JavaScript](#html-css-and-javascript)
-	- [Lua](#lua)
-	- [Python](#python)
-	- [Scala](#scala)
-	- [Kotlin](#kotlin)
-	- [Flutter](#flutter)
-- [Performance](#performance)
-- [Shrinking](#shrinking)
+	- [Cross-Platform](#cross-platform)
+	- [Kotlin Multiplatform](#kotlin-multiplatform)
+- [Build & Performance](#build--performance)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Emulators
+- [Android Emulator](https://developer.android.com/studio/run/emulator) - Official Android emulator integrated into Android Studio.
 - [Genymotion](https://www.genymotion.com)
 
 ## Libraries
 
+### Jetpack Compose
+
+- [Jetpack Compose](https://developer.android.com/compose) - Modern toolkit for building native Android UI with declarative Kotlin APIs and Material 3 support.
+
+### Architecture
+
+- [Circuit](https://github.com/slackhq/circuit) - Modern architecture framework for building Android apps with Compose.
+- [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.
+
 ### Charts
 
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
+- [Vico](https://github.com/patrykandpatrick/vico) - Modern chart library with support for both Jetpack Compose and Android Views.
 
 ### Data binding
 
@@ -67,7 +78,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Dependency Injection
 
+- [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) - Official dependency injection library built on top of Dagger for Android.
 - [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
+- [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin.
 
 ### Game Development
 
@@ -82,39 +95,28 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### GUI
 
+- [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
+- [Navigation](https://developer.android.com/guide/navigation) - Framework for building in-app navigation with type-safe argument passing.
 - [Pull to refresh](https://developer.android.com/reference/androidx/swiperefreshlayout/widget/SwipeRefreshLayout) - A swipe refresh layout is available in AndroidX.
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 - [Litho (By Meta)](https://github.com/meta/litho) - A declarative framework for building efficient UIs on Android.
 - [Liquid-Glass-Android](https://github.com/QWEA0/Liquid-Glass-Android) - Liquid glass effect for the Android View system.
-
-#### Navigation
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
-
-#### Animations
+- [AppIntro](https://github.com/AppIntro/AppIntro) - Library for creating beautiful intro slides for your app.
+- [Lottie](https://github.com/airbnb/lottie-android) - Library for rendering After Effects animations natively on Android.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
-
-#### Images
-
 - [Compressor](https://github.com/zetbaitsu/Compressor) - Lightweight and powerful Android image compression library.
-
-#### View Pagers
 - [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) - Three Material Dots Indicators styles for View Pagers.
-
-#### Loading Images
-
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
 - [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
-
-#### Video
-
 - [Media3 (ExoPlayer)](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android.
-
-#### Camera
+- [CameraX](https://developer.android.com/training/camerax) - Jetpack library that makes camera app development easier with consistent API across devices.
 
 
 ### JSON
 
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform serialization library with JSON support.
 - [Gson](https://github.com/google/gson) - Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
 - [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
@@ -124,37 +126,45 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Luciq](https://www.luciq.ai/) - Bug reporting, Crash Reporting, In-app Feedback (formerly Instabug).
 - [Firebase Crashlytics](https://firebase.google.com/products/crashlytics) - Easy crash reporting solution. *Commercial (has free tier)*
 - [Measure](https://github.com/measure-sh/measure/) - Open source tool to monitor crashes, ANRs, and performance of mobile apps. Can be self-hosted.
+- [Sentry Android](https://github.com/getsentry/sentry-java) - Open source error tracking with real-time crash reporting. *Commercial (has free tier)*
 
 ### Networking
 
+- [Retrofit](https://github.com/lysine-dev/retrofit) - Turns your REST API into a Java interface (continued project).
 - [OkHttp](https://github.com/lysine-dev/okhttp) - An HTTP+SPDY client for Android and Java applications (continued project).
+- [Ktor Client](https://github.com/ktorio/ktor) - Asynchronous HTTP client for Kotlin with multiplatform support.
+- [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed GraphQL client for Kotlin and Java.
 - [Android Volley](https://google.github.io/volley/) - Official Android HTTP library that makes networking for easier and faster.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
 
 ### Logger
-- [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android.
 - [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- [Kermit](https://github.com/touchlab/Kermit) - Kotlin Multiplatform logging library with support for multiple platforms.
+- [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android.
 - [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
 - [Logback Android](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
 - [LogDog](https://log.dog) - Remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
 
 ### Database
-- [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
-- [Nitrite Database](https://github.com/nitrite/nitrite-java) - A NoSQL embedded document store for Android with MongoDB like API.
-
-#### ORM
-
+- [Room](https://developer.android.com/training/data-storage/room) - Official SQLite object mapping library with compile-time verification of SQL queries.
+- [SQLDelight](https://github.com/sqldelight/sqldelight) - Generates typesafe Kotlin APIs from SQL statements with Kotlin Multiplatform support.
 - [ObjectBox](https://github.com/objectbox/objectbox-java) - Simple but powerful object database, optimized for performance & mobile.
 - [requery](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
 - [DBFlow](https://github.com/agrosner/DBFlow) - Fast and powerful ORM with compile-time annotation processing.
-
-### REST
-
-- [Retrofit](https://github.com/lysine-dev/retrofit) - Turns your REST API into a Java interface (continued project).
+- [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
+- [Nitrite Database](https://github.com/nitrite/nitrite-java) - A NoSQL embedded document store for Android with MongoDB like API.
 
 ### Testing
 
+- [Espresso](https://developer.android.com/training/testing/espresso) - Official Android UI testing framework for writing reliable UI tests.
+- [AndroidX Test](https://github.com/android/android-test) - Testing libraries for Android including JUnit rules and Espresso APIs.
 - [Roboletric](https://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
+- [MockK](https://github.com/mockk/mockk) - Mocking library for Kotlin with natural syntax and comprehensive DSL.
+- [Turbine](https://github.com/cashapp/turbine) - Testing library for Kotlin Flows with simple and expressive assertions.
+- [Kotest](https://github.com/kotest/kotest) - Flexible and comprehensive testing framework for Kotlin with multiple testing styles.
+- [Maestro](https://github.com/mobile-dev-inc/maestro) - Mobile UI testing framework for end-to-end testing with simple YAML-based syntax.
+- [Paparazzi](https://github.com/cashapp/paparazzi) - Render Android screens as images for snapshot testing without a device or emulator.
+- [Roborazzi](https://github.com/takahirom/roborazzi) - Screenshot testing library for Android using Robolectric.
 - [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.
 - [Droidline](https://github.com/KnifeLemon/Droidline) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
 
@@ -166,6 +176,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Maps
 
+- [android-maps-utils](https://github.com/googlemaps/android-maps-utils) - Utility library for Google Maps Android API with features like marker clustering and heat maps.
+- [Maps Compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for Google Maps.
 - [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
@@ -202,16 +214,36 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
 
+### Google Play
+
+- [Google Play Billing](https://developer.android.com/google/play/billing) - Official library for in-app purchases and subscriptions on Google Play.
+- [In-App Updates](https://developer.android.com/guide/playcore/in-app-updates) - Keep your app up to date with flexible and immediate in-app update flows.
+- [In-App Review](https://developer.android.com/guide/playcore/in-app-review) - Prompt users to submit Play Store ratings and reviews without leaving your app.
+
+### Code Quality
+
+- [Detekt](https://github.com/detekt/detekt) - Static code analysis tool for Kotlin with over 200 built-in rules.
+- [ktlint](https://github.com/ktlint/ktlint) - Anti-bikeshedding Kotlin linter with built-in formatter.
+- [Spotless](https://github.com/diffplug/spotless) - Code formatter that supports multiple languages and can enforce consistent formatting in builds.
+
 ### Other
 
-- [Licensee](https://github.com/cashapp/licensee) - Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 - [AndroidX](https://developer.android.com/jetpack/androidx) - The modern Android development toolkit that replaces the Android Support Library, providing backward-compatible versions of Android framework APIs.
+- [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library for asynchronous programming with coroutines and Flow for reactive streams.
+- [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) - Schedule deferrable and guaranteed background work with a flexible API.
+- [Paging](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) - Load and display pages of data from a larger dataset with efficient memory usage.
+- [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) - Modern data storage solution using Kotlin coroutines and Flow to replace SharedPreferences.
+- [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library with typed functional programming support.
+- [KSP](https://github.com/google/ksp) - Kotlin Symbol Processing API for writing lightweight compiler plugins with better performance than kapt.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
+- [ML Kit](https://developers.google.com/ml-kit) - Mobile SDK for machine learning tasks like barcode scanning, text recognition, and face detection.
+- [Google Code Scanner](https://developers.google.com/ml-kit/vision/barcode-scanning/code-scanner) - High-quality barcode scanning without requiring app permissions using Google Play Services.
 - [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 - [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 - [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [refreshVersions](https://github.com/Splitties/refreshVersions) - A Kotlin dsl to simplify dependencies management.
+- [Licensee](https://github.com/cashapp/licensee) - Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 
 ## Resources
 
@@ -232,6 +264,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roadmap.sh Android Roadmap](https://roadmap.sh/android) - Community-created Android developer roadmap.
 
 ### Code examples
+- [Now in Android](https://github.com/android/nowinandroid) - Official sample app demonstrating modern Android development best practices.
+- [Compose Samples](https://github.com/android/compose-samples) - Official sample apps showcasing Jetpack Compose UI toolkit.
 - [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common Android problems.
 
 ### Podcasts
@@ -250,45 +284,32 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 My personal recommendation is (for now) to use the Android SDK to build a native app. Scala and Kotlin are both options; multidex requirements depend on an app's method-reference count and minimum SDK level, not its language. Cross-platform alternatives can also be useful when they fit a project's requirements.
 
-### C&#35;
+### Cross-Platform
 
-- [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI, the evolution of Xamarin.Forms, for building native cross-platform apps with .NET and C#.
-
-### HTML, CSS and JavaScript
-
-- [NativeScript](https://nativescript.org/) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
+- [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 - [React Native](https://github.com/react/react-native) - A framework for building native apps with React.
+- [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI, the evolution of Xamarin.Forms, for building native cross-platform apps with .NET and C#.
+- [NativeScript](https://nativescript.org/) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
 - [Ionic Framework](https://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
 - [Apache Cordova](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
-- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative. 
-
-### Lua
+- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
 - [Solar2D](https://github.com/coronalabs/corona) - Cross-platform framework for creating 2D games and apps (formerly Corona SDK).
-
-### Python
 - [BeeWare](https://github.com/beeware/toga) - Write native Android apps in Python using Toga and Briefcase.
 - [Flet](https://github.com/flet-dev/flet) - Build Flutter apps using Python.
 - [Kivy](https://github.com/kivy/kivy) - Open source Python framework for Android apps, packaged with Buildozer.
-
-### Scala
 - [Macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android.
 
-### Kotlin
-- [Kotlin coding challenges](https://github.com/igorwojda/kotlin-coding-challenges) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+### Kotlin Multiplatform
+- [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) - Jetpack Compose for iOS, Desktop, and Web built on Kotlin Multiplatform.
 - [KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.
-- [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin.
+- [Kotlin coding challenges](https://github.com/igorwojda/kotlin-coding-challenges) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 
-### Flutter
-- [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
+## Build & Performance
 
-## Performance
-- [Booster](https://github.com/didi/booster) - An optimization toolkit for Android applications.
-
-## Shrinking
-
-- [ProGuard](https://www.guardsquare.com/proguard) - Open-source Java bytecode optimizer and shrinker for Android apps.
 - [R8](https://developer.android.com/topic/performance/app-optimization/enable-app-optimization) - Default code shrinker and optimizer for Android apps.
+- [ProGuard](https://www.guardsquare.com/proguard) - Open-source Java bytecode optimizer and shrinker for Android apps.
 - [ProGuard Playground](https://playground.proguard.com/) - Interactive online tool for visualizing and testing ProGuard and R8 keep rules.
+- [Booster](https://github.com/didi/booster) - An optimization toolkit for Android applications.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
