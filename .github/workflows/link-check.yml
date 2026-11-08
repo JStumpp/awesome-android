@@ -30,7 +30,7 @@ jobs:
             --timeout 20
             --max-retries 3
             --retry-wait-time 5
-            ${{ github.event_name == 'pull_request' && '--base .' || 'readme.md' }}
+            readme.md
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
