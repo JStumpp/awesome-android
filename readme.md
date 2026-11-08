@@ -46,17 +46,14 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 	- [Other](#other)
 - [Resources](#resources)
 - [Development Alternatives](#development-alternatives)
-<<<<<<< HEAD
-    - [C#](#c)
-    - [HTML, CSS and Javascript](#html-css-and-javascript)
-    - [Lua](#lua)
-    - [Python](#python)
-    - [Scala](#scala)
-    - [Groovy](#groovy)
-    - [Kotlin](#kotlin)
-    - [Flutter](#flutter)
-=======
->>>>>>> 221f2bc (Fix awesome-lint errors and warnings)
+	- [C#](#c)
+	- [HTML, CSS and JavaScript](#html-css-and-javascript)
+	- [Lua](#lua)
+	- [Python](#python)
+	- [Scala](#scala)
+	- [Groovy](#groovy)
+	- [Kotlin](#kotlin)
+	- [Flutter](#flutter)
 - [Performance](#performance)
 - [Shrinking](#shrinking)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -130,12 +127,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView.
 - [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
-<<<<<<< HEAD
-- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
-=======
 - [EasyIntro](https://github.com/meNESS/EasyIntro) - Flexible, easy to use, all in one app intro library for your Android project.
 - [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+.
->>>>>>> 221f2bc (Fix awesome-lint errors and warnings)
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - A material calendar widget with infinite scrolling, date range selection and color customization.
 - [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background.
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
@@ -282,10 +275,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
-<<<<<<< HEAD
-=======
 - [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the SQLite easily via direct database access or through the ContentProvider framework.
->>>>>>> 221f2bc (Fix awesome-lint errors and warnings)
 - [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
 - [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - Manage database creation and version management using an application's raw asset files.
 - [Realm](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
@@ -355,18 +345,11 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds.
 - [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
-<<<<<<< HEAD
-- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
-- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices
-- [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
-- [handsets](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
-- [Pidcat](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
-=======
 - [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Powerful library for debugging databases and shared preferences in Android applications.
 - [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - A command-line tool to assist in debugging Android-powered devices.
 - [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.
+- [handsets](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat](https://github.com/JakeWharton/pidcat) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
->>>>>>> 221f2bc (Fix awesome-lint errors and warnings)
 - [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
 
 
@@ -376,14 +359,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Chat & Messaging
 
-<<<<<<< HEAD
-- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
-- [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
-=======
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your Android application.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Lightweight and powerful Android chat library. Allows you to easily integrating Qiscus engine with your apps to make cool chatting application.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in Android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (Android, iOS) applications and website for customer support.
->>>>>>> 221f2bc (Fix awesome-lint errors and warnings)
 - [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 - [Stream Chat](https://getstream.io/tutorials/android-chat/) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/).
@@ -502,11 +480,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ## Development Alternatives
 
-<<<<<<< HEAD
 My personal recommendation is (for now) to use the Android SDK to build a native app. Scala and Kotlin are both options; multidex requirements depend on an app's method-reference count and minimum SDK level, not its language. Cross-platform alternatives can also be useful when they fit a project's requirements.
-=======
-My personal recommendation is (for now) to use the Android api to build a native app. Scala can help to build this native apps with cleaner code but it adds to many methods (Multidex required). Kotlin is a modern language with 100% interoperatibility with java projects **without multidex**. But there are also use cases where alternatives like cross-platform development can be useful.
->>>>>>> 221f2bc (Fix awesome-lint errors and warnings)
 
 ### C&#35;
 
