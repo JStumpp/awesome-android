@@ -24,4 +24,3 @@ jobs:
 
       - name: Run awesome-lint
         run: npx awesome-lint readme.md
-        continue-on-error: true
