@@ -31,7 +31,6 @@ jobs:
             --max-retries 3
             --retry-wait-time 5
             ${{ github.event_name == 'pull_request' && '--base .' || 'readme.md' }}
-          lycheeVersion: v0.24.2
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
