@@ -54,7 +54,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ## Emulators
 - [Android Emulator](https://developer.android.com/studio/run/emulator) - Official Android emulator integrated into Android Studio.
-- [Genymotion](https://www.genymotion.com)
+- [Genymotion](https://www.genymotion.com) - Fast Android emulator for app testing and development. *Commercial*
 
 ## Libraries
 
@@ -85,9 +85,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Game Development
 
 - [Libgdx](https://libgdx.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libgdx/libgdx)
-- [Vuforia](https://www.ptc.com/en/products/vuforia) - Augmented Reality library.
-- [Unity](https://unity.com/features/multiplatform) - Cross-platform game creation system.
 - [Godot](https://github.com/godotengine/godot) - Cross-platform 2/3D game engine with an IDE and under MIT license.
+- [Vuforia](https://www.ptc.com/en/products/vuforia) - Augmented Reality library. *Commercial*
+- [Unity](https://unity.com/features/multiplatform) - Cross-platform game creation system. *Commercial*
 
 ### Security
 
@@ -100,7 +100,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Pull to refresh](https://developer.android.com/reference/androidx/swiperefreshlayout/widget/SwipeRefreshLayout) - A swipe refresh layout is available in AndroidX.
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 - [Litho (By Meta)](https://github.com/meta/litho) - A declarative framework for building efficient UIs on Android.
-- [Liquid-Glass-Android](https://github.com/QWEA0/Liquid-Glass-Android) - Liquid glass effect for the Android View system.
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 - [AppIntro](https://github.com/AppIntro/AppIntro) - Library for creating beautiful intro slides for your app.
 - [Lottie](https://github.com/airbnb/lottie-android) - Library for rendering After Effects animations natively on Android.
@@ -122,11 +121,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 ### Crash monitoring
 
-- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
-- [Luciq](https://www.luciq.ai/) - Bug reporting, Crash Reporting, In-app Feedback (formerly Instabug).
-- [Firebase Crashlytics](https://firebase.google.com/products/crashlytics) - Easy crash reporting solution. *Commercial (has free tier)*
 - [Measure](https://github.com/measure-sh/measure/) - Open source tool to monitor crashes, ANRs, and performance of mobile apps. Can be self-hosted.
 - [Sentry Android](https://github.com/getsentry/sentry-java) - Open source error tracking with real-time crash reporting. *Commercial (has free tier)*
+- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data. *Commercial*
+- [Firebase Crashlytics](https://firebase.google.com/products/crashlytics) - Easy crash reporting solution. *Commercial (has free tier)*
 
 ### Networking
 
@@ -142,8 +140,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Kermit](https://github.com/touchlab/Kermit) - Kotlin Multiplatform logging library with support for multiple platforms.
 - [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android.
 - [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
-- [Logback Android](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
-- [LogDog](https://log.dog) - Remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
+- [Logback Android](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps. 
 
 ### Database
 - [Room](https://developer.android.com/training/data-storage/room) - Official SQLite object mapping library with compile-time verification of SQL queries.
@@ -170,15 +167,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Tracking
 
-- [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://countly.com/) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
-- [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events.
+- [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users. *Commercial*
 
 ### Maps
 
 - [android-maps-utils](https://github.com/googlemaps/android-maps-utils) - Utility library for Google Maps Android API with features like marker clustering and heat maps.
 - [Maps Compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for Google Maps.
-- [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
 - [Byte Buddy](https://bytebuddy.net) - Runtime code generation library with support for Android.
@@ -193,7 +188,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.
 - [handsets](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat](https://github.com/JakeWharton/pidcat) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
-- [AppSpector](https://www.appspector.com/) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
 
 
 ### Wireless
@@ -203,8 +197,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Chat & Messaging
 
-- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Lightweight and powerful Android chat library. Allows you to easily integrating Qiscus engine with your apps to make cool chatting application.
-- [Stream Chat](https://getstream.io/chat/sdk/android/tutorial/compose/) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/).
+- [Stream Chat](https://getstream.io/chat/sdk/android/tutorial/compose/) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/). *Commercial*
 
 ### Date & Time
 
@@ -212,7 +205,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Payments
 
-- [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
+- [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout. *Commercial*
 
 ### Google Play
 
@@ -297,7 +290,6 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [BeeWare](https://github.com/beeware/toga) - Write native Android apps in Python using Toga and Briefcase.
 - [Flet](https://github.com/flet-dev/flet) - Build Flutter apps using Python.
 - [Kivy](https://github.com/kivy/kivy) - Open source Python framework for Android apps, packaged with Buildozer.
-- [Macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android.
 
 ### Kotlin Multiplatform
 - [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) - Jetpack Compose for iOS, Desktop, and Web built on Kotlin Multiplatform.
