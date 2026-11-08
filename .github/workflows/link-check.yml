@@ -32,7 +32,7 @@ jobs:
             --retry-wait-time 5
             --exclude-mail
             ${{ github.event_name == 'pull_request' && '--base .' || 'readme.md' }}
-          lycheeVersion: nightly
+          lycheeVersion: v0.24.2
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

@@ -140,7 +140,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [OneAdapter](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
 
 #### ActionBar
-- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
 - [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
 
 #### Navigation
