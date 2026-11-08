@@ -1,4 +1,5 @@
-# Awesome Android
+# Awesome Android [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://github.com/jstumpp/awesome-android)
 
 <p align="center">
@@ -7,71 +8,55 @@
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
-# About
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
+A curated list of awesome Android libraries and resources. For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
-# How to Use
 Awesome-Android is an amazing list for people who need a certain feature on their app, so the best ways to use are:
- - Simply press <kbd>Ctrl</kbd> + <kbd>F</kbd> (or <kbd>⌘</kbd> + <kbd>F</kbd> on macOS) to search for a keyword
- - Go through our Content Menu
+- Simply press <kbd>Ctrl</kbd> + <kbd>F</kbd> (or <kbd>⌘</kbd> + <kbd>F</kbd> on macOS) to search for a keyword
+- Go through our Content Menu
 
-# Content
+## Contents
 - [Emulators](#emulators)
 - [Libraries](#libraries)
-    - [Charts](#charts)
-    - [Cloud Services](#cloud-services)
-    - [Dependency Injection](#dependency-injection)
-    - [Android Services](#android-services)
-    - [Game Development](#game-development)
+	- [Charts](#charts)
+	- [Cloud Services](#cloud-services)
+	- [Data binding](#data-binding)
+	- [Dependency Injection](#dependency-injection)
+	- [Android Services](#android-services)
+	- [Game Development](#game-development)
 	- [Security](#security)
-    - [GUI](#gui)
-        - [ActionBar](#actionbar)
-        - [Navigation](#navigation)
-        - [Animations](#animations)
-        - [Images](#images)
-        - [Inputs](#inputs)
-        - [Loading images](#loading-images)
-        - [Media Picker](#media-picker)
-        - [Video](#video)
-        - [Camera](#camera)
-        - [Field Validation](#field-validation)
-    - [JSON](#json)
-    - [Crash monitoring](#crash-monitoring)
-    - [Networking](#networking)
-    - [Logger](#logger)
-    - [Notifications](#notifications)
-    - [Database](#database)
-        - [ORM](#orm)
-    - [REST](#rest)
-    - [Testing](#testing)
-    - [Tracking](#tracking)
-    - [Maps](#maps)
-    - [Utility](#utility)
-    - [Debugging tools](#debugging-tools)
-    - [Wireless](#wireless)
-    - [Chat and Messaging](#chat--messaging)
-    - [Custom Dialog](#custom-dialog)
-    - [Version Checking](#version-checking)
-    - [Date & Time](#date--time)
-    - [Runtime Permissions](#runtime-permissions)
-    - [Other](#other)
+	- [GUI](#gui)
+	- [JSON](#json)
+	- [Crash monitoring](#crash-monitoring)
+	- [Networking](#networking)
+	- [Logger](#logger)
+	- [Notifications](#notifications)
+	- [Database](#database)
+	- [REST](#rest)
+	- [Testing](#testing)
+	- [Tracking](#tracking)
+	- [Maps](#maps)
+	- [Utility](#utility)
+	- [Debugging Tools](#debugging-tools)
+	- [Wireless](#wireless)
+	- [Chat & Messaging](#chat--messaging)
+	- [Version Checking](#version-checking)
+	- [Date & Time](#date--time)
+	- [Runtime Permissions](#runtime-permissions)
+	- [Payments](#payments)
+	- [Other](#other)
 - [Resources](#resources)
-    - [Code examples](#code-examples)
-    - [Podcasts](#podcasts)
-    - [More lists of libraries](#more-lists-of-libraries)
 - [Development Alternatives](#development-alternatives)
-    - [C#](#c)
-    - [HTML, CSS and Javascript](#html-css-and-javascript)
-    - [Lua](#lua)
-    - [Python](#python)
-    - [Scala](#scala)
-    - [Groovy](#groovy)
-    - [Kotlin](#kotlin)
-    - [Flutter](#flutter)
+	- [C#](#c)
+	- [HTML, CSS and JavaScript](#html-css-and-javascript)
+	- [Lua](#lua)
+	- [Python](#python)
+	- [Scala](#scala)
+	- [Groovy](#groovy)
+	- [Kotlin](#kotlin)
+	- [Flutter](#flutter)
 - [Performance](#performance)
 - [Shrinking](#shrinking)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Emulators
 - [ARChon](https://archon-runtime.github.io)
@@ -138,26 +123,27 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
 - [Snap RecyclerView Utils](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
-- [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
-- [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
+- [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView.
+- [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView.
 - [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
-- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
+- [EasyIntro](https://github.com/meNESS/EasyIntro) - Flexible, easy to use, all in one app intro library for your Android project.
+- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+.
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - A material calendar widget with infinite scrolling, date range selection and color customization.
-- [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
+- [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background.
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
 - [DragListView](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.
-- [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.
+- [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - Provides a fancy animation on expanding or collapsing the content of a listview item.
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - Toasts with icons and color.
 - [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 - [PodSlider](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 - [ShowCaseView](https://github.com/mreram/ShowCaseView) - The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a attractive and flat overlay.
 - [MaterialIntroScreen](https://github.com/TangoAgency/material-intro-screen) - Material Intro Screen implementation with easily extensible API.
-- [FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation.
-- [Timecon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon
-- [Audiogram](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar
-- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
+- [FloatingView](https://github.com/UFreedom/FloatingView) - Can make the target view floating above the anchor view with cool animation.
+- [Timecon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon.
+- [Audiogram](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar.
+- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library.
 - [Litho (By Facebook)](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
@@ -171,7 +157,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [OneAdapter](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
 
 #### Paginate
-- [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
+- [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -179,7 +165,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 #### Navigation
 - [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
-- [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - Simple library that helps to create awesome sliding android app tutorials.
+- [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - Simple library that helps to create awesome sliding Android app tutorials.
 - [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
 - [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
 - [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - An efficient TabLayout library implemented with RecyclerView.
@@ -188,8 +174,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
-- [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) -  Kotlin library for simplifying animations and transitions in Jetpack Compose.
-- [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
+- [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) - Kotlin library for simplifying animations and transitions in Jetpack Compose.
+- [Rebound](https://github.com/facebook/rebound) - Java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
 - [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
@@ -202,17 +188,17 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
 - [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
-- [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
+- [Compressor](https://github.com/zetbaitsu/Compressor) - Lightweight and powerful Android image compression library.
 - [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - Library to display images in different shapes.
 
 #### Inputs
 
-- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
+- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
-- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) - Adds emoticons to your app
-- [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
+- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) - Adds emoticons to your app.
+- [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android.
 - [InputMask](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
-- [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - Password EditText that allows to custom toggle button
+- [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - Password EditText that allows to custom toggle button.
 - [VoiceOverlay](https://github.com/algolia/voice-overlay-android) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 #### View Pagers
@@ -224,19 +210,18 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
-- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
+- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Memory management library for reusing the bitmap memory.
 - [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 
 #### Media Picker
 
-- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
-- [Android Image Picker](https://github.com/esafirm/android-image-picker) - A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action
+- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android.
+- [Android Image Picker](https://github.com/esafirm/android-image-picker) - A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action.
 
 #### Video
 
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-- [Exoplayer](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
-   Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
+- [Exoplayer](https://github.com/google/ExoPlayer) - Application level media player for Android, allow playing audio and video both locally and over the Internet. Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption.
 - [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
 #### Camera
@@ -249,13 +234,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### JSON
 
-- [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
+- [Gson](https://github.com/google/gson) - Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
 - [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 ### Crash monitoring
 
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
-- [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
+- [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics.
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real time data, Statistic.
 - [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
@@ -265,10 +250,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Networking
 
-- [Ion](https://github.com/koush/ion) - Good networking library for android.
+- [Ion](https://github.com/koush/ion) - Good networking library for Android.
 - [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
-- [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
+- [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android.
 - [Android Volley](https://developer.android.com/training/volley/) - Official Android HTTP library that makes networking for easier and faster.
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
@@ -277,25 +262,26 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
 
 ### Logger
-- [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android
+- [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for Android.
 - [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
-- [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
-- [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
+- [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile.
+- [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger.
 - [Logback Android](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
-- [LogDog](https://log.dog) - LogDog is a remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
+- [LogDog](https://log.dog) - Remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
 
 ### Notifications
 - [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
 - [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
+- [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the SQLite easily via direct database access or through the ContentProvider framework.
 - [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
-- [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - manage database creation and version management using an application's raw asset files.
+- [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - Manage database creation and version management using an application's raw asset files.
 - [Realm](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
 - [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.
-- [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
-- [Nitrite Database](https://github.com/dizitart/nitrite-database) - A NoSQL embedded document store for Android with MongoDb like API.
+- [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate Android's SQLiteDatabase with restoring capability.
+- [Nitrite Database](https://github.com/dizitart/nitrite-database) - A NoSQL embedded document store for Android with MongoDB like API.
 
 #### ORM
 
@@ -310,7 +296,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### REST
 
-- [Retrofit](https://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface.
+- [Retrofit](https://square.github.io/retrofit/) - Turns your REST API into a Java interface.
 - [Spring for Android - Rest Template](https://github.com/spring-projects/spring-android) - A Rest Client for Android.
 
 ### Testing
@@ -327,43 +313,43 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
 - [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
-- [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events
+- [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events.
 
 ### Maps
 
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
-- [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
-- [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
+- [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things.
+- [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API.
 - [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
 
 ### Utility
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
-- [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
+- [EventBus](http://greenrobot.github.io/EventBus/) - Library that simplifies communication between different parts of your application.
 - [Otto](https://github.com/square/otto) - Event Bus for Android.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
-- [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
+- [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Uses various Encryption to protect your application's Shared Preferences.
 - [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
-- [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
+- [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing Android applications.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
 - [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
-- [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
-- [Reactor](https://github.com/oky2abbas/reactor) - Reactor is a fast and secure key-value library for Android.
+- [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for Android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
+- [Reactor](https://github.com/oky2abbas/reactor) - Fast and secure key-value library for Android.
  
 ### Debugging Tools
 
-- [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
+- [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds.
 - [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
-- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
-- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices
-- [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
+- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Powerful library for debugging databases and shared preferences in Android applications.
+- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - A command-line tool to assist in debugging Android-powered devices.
+- [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.
 - [handsets](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
-- [Pidcat](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
+- [Pidcat](https://github.com/JakeWharton/pidcat) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
 - [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
 
 
@@ -373,8 +359,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Chat & Messaging
 
-- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
-- [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
+- [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your Android application.
+- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Lightweight and powerful Android chat library. Allows you to easily integrating Qiscus engine with your apps to make cool chatting application.
+- [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in Android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (Android, iOS) applications and website for customer support.
 - [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 - [Stream Chat](https://getstream.io/tutorials/android-chat/) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/).
@@ -383,15 +370,15 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 #### Custom Dialog
 
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
-- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - Offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 - [Noty](https://github.com/emre1512/Noty) - A simple library for creating animated alerts/dialogs/warnings.
 
 ### Version Checking
 
- - [AppUpdater](https://github.com/javiersantos/AppUpdater) - comprehensive and feature rich library, including support for checks at Amazon and FDroid.
- - [Gandalf](https://github.com/btkelly/gandalf) - comprehensive features and a "companion" iOS solution.
- - [Siren](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
- - [Fit](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
+- [AppUpdater](https://github.com/javiersantos/AppUpdater) - Comprehensive and feature rich library, including support for checks at Amazon and FDroid.
+- [Gandalf](https://github.com/btkelly/gandalf) - Comprehensive features and a "companion" iOS solution.
+- [Siren](https://github.com/eggheadgames/Siren) - Focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
+- [Fit](https://github.com/KeithYokoma/Fit) - Version checking callback framework with no UI.
 
 ### Date & Time
 
@@ -406,7 +393,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [NoPermission](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 - [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
 - [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
-- [EasyPermissions](https://github.com/googlesamples/easypermissions) - EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.
+- [EasyPermissions](https://github.com/googlesamples/easypermissions) - Wrapper library to simplify basic system permissions logic when targeting Android M or higher.
 
 ### Payments
 
@@ -414,7 +401,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Other
 
-- [Licensee](https://github.com/cashapp/licensee) - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
+- [Licensee](https://github.com/cashapp/licensee) - Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
@@ -425,36 +412,36 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 - [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
-- [RxJava](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
-- [RxBinding](https://github.com/JakeWharton/RxBinding)- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
+- [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries.
 - [Caffeine](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
 - [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
-- [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
+- [andle](https://github.com/Jintin/andle) - Command line tool help you sync dependencies, sdk or build tool version.
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
-- [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
+- [transai](https://github.com/Jintin/transai) - Command line tool help you manage localization string files.
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
-- [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
-- [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
+- [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen.
+- [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
-- [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
-- [Teller](https://github.com/levibostian/Teller-Android/) - Teller facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!
+- [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A Kotlin dsl to simplify dependencies management.
+- [Teller](https://github.com/levibostian/Teller-Android/) - Facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!
 
 ## Resources
 
 - [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
 - [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
 - [Android API Levels](https://apilevels.com/) - A quick reference table of Android versions with SDK & API levels, version codes, codenames, cumulative usage, and more.
-- [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
+- [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) - The video series by Android Design Team of Google.
 - [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - It is the technical counterpart of Android Design in Action series.
-- [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
+- [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?"
 - [Android Hive Tutorials](https://www.androidhive.info) - Very good tutorials for beginners.
-- [Android Weekly](https://androidweekly.net) - Newsletter with weekly information about android.
+- [Android Weekly](https://androidweekly.net) - Newsletter with weekly information about Android.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
-- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
+- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/) - Customize the look of the Android Action Bar.
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
@@ -470,23 +457,23 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roadmap.sh Android Roadmap](https://roadmap.sh/android) - Community-created Android developer roadmap.
 
 ### Code examples
-- [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
+- [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common Android problems.
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
 - [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
 - [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/) is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
-- [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
-- [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
-- [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
+- [Fragmented](https://fragmentedpodcast.com/) - Is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
+- [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
+- [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) - Is a video based podcast, where they have bite-sized conversations with people from the Android community.
+- [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) - A podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
 - [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
-- [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
-- [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
+- [Android Authority](https://www.androidauthority.com/podcast/) - Is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
+- [Android Central](https://www.androidcentral.com/podcast) - Is a weekly Android podcast hosted by the Android Central team.
 
 ### More lists of libraries
-- [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
+- [The Android Arsenal](https://android-arsenal.com/) - Large list of Android libraries.
 - [Square libraries](https://square.github.io/) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 - [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
@@ -499,7 +486,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 
 - [Xamarin](https://visualstudio.microsoft.com/xamarin/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
 
-### HTML, CSS and Javascript
+### HTML, CSS and JavaScript
 
 - [PhoneGap](https://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 - [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
@@ -528,30 +515,30 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 
 ### Kotlin
 - [Anko](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
-- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
+- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife.
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 - [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 - [KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
-- [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
-- [AppDimens](https://github.com/bodenberg/appdimens) - Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic)
+- [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin.
+- [AppDimens](https://github.com/bodenberg/appdimens) - Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic).
 
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
-# Performance
+## Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
-- [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
+- [Booster](https://github.com/didi/booster) - An optimization toolkit for Android applications.
 
-# Shrinking
+## Shrinking
 
 - [ProGuard](https://www.guardsquare.com/proguard) - Open-source Java bytecode optimizer and shrinker for Android apps.
 - [R8](https://developer.android.com/studio/build/shrink-code) - Default code shrinker and optimizer for Android apps.
 - [ProGuard Playground](https://playground.proguard.com/) - Interactive online tool for visualizing and testing ProGuard and R8 keep rules.
 
-# Other Awesome Lists
+## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing
