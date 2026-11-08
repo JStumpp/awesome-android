@@ -1,6 +1,6 @@
 # Awesome Android [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://github.com/jstumpp/awesome-android)
+[<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/main/awesome-android.png">](https://github.com/jstumpp/awesome-android)
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
@@ -209,7 +209,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
 - [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
-- [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
+- [Luciq](https://www.luciq.ai/) - Bug reporting, Crash Reporting, In-app Feedback (formerly Instabug).
 - [Firebase Crashlytics](https://firebase.google.com/products/crashlytics) - Easy crash reporting solution. *Commercial (has free tier)*
 - [Measure](https://github.com/measure-sh/measure/) - Open source tool to monitor crashes, ANRs, and performance of mobile apps. Can be self-hosted.
 
@@ -248,9 +248,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 #### ORM
 
+- [ObjectBox](https://github.com/objectbox/objectbox-java) - Simple but powerful object database, optimized for performance & mobile.
 - [requery](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
-- [GreenDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
-- [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
+- [GreenDAO](https://greenrobot.org/greendao/) - Light & fast ORM solution.
+- [ORMLite](https://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [DBFlow](https://github.com/agrosner/DBFlow) - Fast and powerful ORM with compile-time annotation processing.
 - [NexusData](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
@@ -263,7 +264,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Testing
 
 - [Robotium](https://github.com/RobotiumTech/robotium) - Test automation framework for black-box UI tests.
-- [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
+- [Roboletric](https://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.
 - [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
 - [Droidline](https://github.com/KnifeLemon/Droidline) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
@@ -284,9 +285,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Utility
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
-- [EventBus](http://greenrobot.github.io/EventBus/) - Library that simplifies communication between different parts of your application.
+- [EventBus](https://greenrobot.github.io/EventBus/) - Library that simplifies communication between different parts of your application.
 - [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
-- [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
+- [Byte Buddy](https://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Uses various Encryption to protect your application's Shared Preferences.
 - [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
@@ -338,6 +339,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Date & Time
 
+- [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - A multiplatform Kotlin library for working with date and time.
 - [Joda-Time Android](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 - [True Time](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
 
@@ -385,8 +387,8 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?"
 - [Android Hive Tutorials](https://www.androidhive.info) - Very good tutorials for beginners.
 - [Android Weekly](https://androidweekly.net) - Newsletter with weekly information about Android.
-- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
-- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/) - Customize the look of the Android Action Bar.
+- [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
+- [Android Action Bar Style Generator](https://jgilfelt.github.io/android-actionbarstylegenerator/) - Customize the look of the Android Action Bar.
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
@@ -410,7 +412,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/) - Is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
-- [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
+- [Android Developers Backstage](https://androidbackstage.blogspot.com/) - Is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) - Is a video based podcast, where they have bite-sized conversations with people from the Android community.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) - A podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
 - [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
@@ -428,7 +430,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 
 ### C&#35;
 
-- [Xamarin](https://visualstudio.microsoft.com/xamarin/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
+- [.NET MAUI](https://github.com/dotnet/maui) - .NET Multi-platform App UI, the evolution of Xamarin.Forms, for building native cross-platform apps with .NET and C#.
 
 ### HTML, CSS and JavaScript
 
@@ -439,7 +441,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative. 
 
 ### Lua
-- [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
+- [Solar2D](https://github.com/coronalabs/corona) - Cross-platform framework for creating 2D games and apps (formerly Corona SDK).
 
 ### Python
 - [BeeWare](https://github.com/beeware/toga) - Write native Android apps in Python using Toga and Briefcase.
@@ -451,7 +453,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [Macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android.
 
 ### Groovy
-- [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
+- [Groovy on Android](https://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
