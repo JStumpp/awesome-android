@@ -21,7 +21,7 @@ jobs:
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v2.0.2
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           args: >-
             --verbose
@@ -32,7 +32,7 @@ jobs:
             --retry-wait-time 5
             --exclude-mail
             ${{ github.event_name == 'pull_request' && '--base .' || 'readme.md' }}
-          lycheeVersion: v0.17.0
+          lycheeVersion: nightly
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
