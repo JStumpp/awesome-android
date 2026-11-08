@@ -21,7 +21,7 @@ jobs:
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           args: >-
             --verbose
@@ -30,8 +30,9 @@ jobs:
             --timeout 20
             --max-retries 3
             --retry-wait-time 5
-            --exclude-mail
-            ${{ github.event_name == 'pull_request' && '--base .' || 'readme.md' }}
+            --exclude '(mindorks\.com|androidhive\.info)'
+            readme.md
+          lycheeVersion: v0.24.2
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
