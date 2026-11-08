@@ -20,7 +20,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 # How to Use
 Awesome-Android is an amazing list for people who need a certain feature on their app, so the best ways to use are:
- - Simply press command + F to search for a keyword
+ - Simply press <kbd>Ctrl</kbd> + <kbd>F</kbd> (or <kbd>⌘</kbd> + <kbd>F</kbd> on macOS) to search for a keyword
  - Go through our Content Menu
 
 # Content
@@ -80,7 +80,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Contributing](#contributing)
 
 ## Emulators
-- [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](https://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
