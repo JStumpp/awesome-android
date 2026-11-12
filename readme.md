@@ -164,6 +164,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roborazzi](https://github.com/takahirom/roborazzi) - Screenshot testing library for Android using Robolectric.
 - [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.
 - [Droidline](https://github.com/KnifeLemon/Droidline) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
+- [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing framework for Android and web apps that combines natural-language agent steps with locator-based assertions.
 
 ### Tracking
 
