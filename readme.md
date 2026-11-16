@@ -302,6 +302,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [ProGuard](https://www.guardsquare.com/proguard) - Open-source Java bytecode optimizer and shrinker for Android apps.
 - [ProGuard Playground](https://playground.proguard.com/) - Interactive online tool for visualizing and testing ProGuard and R8 keep rules.
 - [Booster](https://github.com/didi/booster) - An optimization toolkit for Android applications.
+- [Tuist](https://github.com/tuist/tuist) - Open-source Gradle plugin for a shared remote build cache, build and test insights, flaky test detection, and test sharding. *Commercial (has free tier)*
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
