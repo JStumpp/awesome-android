@@ -55,6 +55,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ## Emulators
 - [Android Emulator](https://developer.android.com/studio/run/emulator) - Official Android emulator integrated into Android Studio.
 - [Genymotion](https://www.genymotion.com) - Fast Android emulator for app testing and development. *Commercial*
+- [GNDROiD](https://github.com/gnonymous1/GNDROiD) - High-performance Windows Android emulator and hypervisor with hardware-bridged router DHCP networking, multi-instance isolation, and 120 FPS phone mirroring.
 
 ## Libraries
 
