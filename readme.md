@@ -61,11 +61,15 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Jetpack Compose
 
 - [Jetpack Compose](https://developer.android.com/compose) - Modern toolkit for building native Android UI with declarative Kotlin APIs and Material 3 support.
+- [Haze](https://github.com/chrisbanes/haze) - Blur and frosted-glass effects for Jetpack Compose and Compose Multiplatform.
+- [Showkase](https://github.com/airbnb/Showkase) - Annotation-processor-based browser for your Jetpack Compose UI elements, colors and typography.
 
 ### Architecture
 
 - [Circuit](https://github.com/slackhq/circuit) - Modern architecture framework for building Android apps with Compose.
 - [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.
+- [Molecule](https://github.com/cashapp/molecule) - Build a StateFlow or Flow stream using Jetpack Compose runtime.
+- [Store](https://github.com/MobileNativeFoundation/Store) - Kotlin Multiplatform library for loading, caching and syncing data with a Flow-based API.
 
 ### Charts
 
@@ -103,12 +107,12 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 - [AppIntro](https://github.com/AppIntro/AppIntro) - Library for creating beautiful intro slides for your app.
 - [Lottie](https://github.com/airbnb/lottie-android) - Library for rendering After Effects animations natively on Android.
-- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Compressor](https://github.com/zetbaitsu/Compressor) - Lightweight and powerful Android image compression library.
 - [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) - Three Material Dots Indicators styles for View Pagers.
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
 - [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+- [Landscapist](https://github.com/skydoves/landscapist) - Image loading for Jetpack Compose and Kotlin Multiplatform with Coil, Glide and Fresco as backends.
 - [Media3 (ExoPlayer)](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android.
 - [CameraX](https://developer.android.com/training/camerax) - Jetpack library that makes camera app development easier with consistent API across devices.
 
@@ -134,6 +138,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed GraphQL client for Kotlin and Java.
 - [Android Volley](https://google.github.io/volley/) - Official Android HTTP library that makes networking for easier and faster.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
+- [Wire](https://github.com/square/wire) - Protocol buffers and gRPC for Kotlin, Java and Kotlin Multiplatform.
 
 ### Logger
 - [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
@@ -188,12 +193,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.
 - [handsets](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat](https://github.com/JakeWharton/pidcat) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected via USB or TCP/IP.
 
 
 ### Wireless
 
 - [Kable](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low Energy library for Android and other platforms.
-- [Nordic Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - Android BLE library from Nordic Semiconductor for reliable BLE communication.
+- [Nordic Android-BLE-Library](https://github.com/nordicsemi/Android-BLE-Library) - Android BLE library from Nordic Semiconductor for reliable BLE communication.
 
 ### Chat & Messaging
 
@@ -295,6 +301,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) - Jetpack Compose for iOS, Desktop, and Web built on Kotlin Multiplatform.
 - [KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.
 - [Kotlin coding challenges](https://github.com/igorwojda/kotlin-coding-challenges) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+- [Compose Hot Reload](https://github.com/JetBrains/compose-hot-reload) - Hot reload for Compose Multiplatform, by JetBrains.
 
 ## Build & Performance
 
