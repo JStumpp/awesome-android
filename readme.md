@@ -195,6 +195,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [handsets](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat](https://github.com/JakeWharton/pidcat) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected via USB or TCP/IP.
+- [Another](https://github.com/Zfinix/another) - Mirror and control Android devices from macOS, Linux and Windows, with a local MCP server that lets AI agents drive the device.
 
 
 ### Wireless
